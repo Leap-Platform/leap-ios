@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
                      DESC
     s.homepage     = "https://leap.is"
     s.platform	   = :ios, "10.0"
-    s.swift_vesrions = ['5.0']
+    s.swift_versions = ['5.0']
     s.license      = { :type => "BSD",:file=>"LICENSE.md"}
     s.author       = { "Aravind G S" => "aravind@jiny.io" }
     s.source       = { :git => "https://github.com/Leap-Platform/leap-ios.git", :tag => s.version.to_s }
