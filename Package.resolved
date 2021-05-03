@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Gzip",
+        "repositoryURL": "https://github.com/1024jp/GzipSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "ba0b6cb51cc6202f896e469b87d2889a46b10d1b",
+          "version": "5.1.1"
+        }
+      },
+      {
+        "package": "LeapCoreSDK",
+        "repositoryURL": "file:///Users/aravindgs/workspace/ReleaseRepos/leap-core-ios",
+        "state": {
+          "branch": null,
+          "revision": "63f4901e2e17bb50dbf11d98fa5c33df6a9bb0ea",
+          "version": "0.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
