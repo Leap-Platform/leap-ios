@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
     s.source       = { :git => "https://github.com/Leap-Platform/leap-ios.git", :tag => s.version.to_s }
     s.vendored_frameworks = "LeapSDK.xcframework"
     s.frameworks   = 'UIKit', 'Webkit', 'AVFoundation'
-    s.dependency 'LeapCoreSDK'
+    s.dependency 'LeapCoreSDK', '~> 1.0.0'
   end
