@@ -1,47 +1,19 @@
 // swift-tools-version:5.3
 
-//import PackageDescription
-//
-//let package = Package(
-//    name: "LeapSDK",
-//    products: [
-//        .library(name: "LeapSDK", targets: ["LeapSDK"]),
-//    ],
-//    dependencies: [
-//        .package(url: "https://github.com/Leap-Platform/leap-core-ios.git", from: "0.0.1")
-//    ],
-//    targets: [
-//        .binaryTarget(name: "LeapSDK", path: "LeapSDK.xcframework")
-//    ]
-//)
-
-
 import PackageDescription
+
 let package = Package(
     name: "LeapSDK",
     products: [
-        .library(
-            name: "LeapSDK",
-            targets: [
-                "LeapSDKTargets"
-            ]
-        )
+        .library( name: "LeapSDK", targets: ["LeapSDK","LeapCoreSDK"] )
     ],
-    dependencies: [
-        .package(name: "LeapCoreSDK",
-                 url: "file:///Users/aravindgs/workspace/ReleaseRepos/leap-core-ios",
-                 from: "0.0.1")
-    ],
+    dependencies: [],
     targets: [
+        .binaryTarget(name: "LeapSDK", path: "LeapSDK.xcframework"),
         .binaryTarget(
-            name: "LeapSDK",
-            path: "LeapSDK.xcframework"
-        ),
-        .target(name: "LeapSDKTargets",
-                dependencies: [
-                    .target(name: "LeapSDK"),
-                    .product(name: "LeapCoreSDK", package: "LeapCoreSDK")
-                ],
-                path: "Sources")
+            name: "LeapCoreSDK", 
+            url: "https://github.com/Leap-Platform/leap-core-ios/releases/download/1.1.4/LeapCoreSDK.xcframework.zip", 
+            checksum: "352b19c39b15e4cd159a6729d244f0b3a6fa6fb130db441f8033df1ccb5c5ccc"
+        )
     ]
 )
