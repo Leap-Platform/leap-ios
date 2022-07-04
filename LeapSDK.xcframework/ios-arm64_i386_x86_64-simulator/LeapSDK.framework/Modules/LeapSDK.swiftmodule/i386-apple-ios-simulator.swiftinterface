@@ -5,6 +5,7 @@ import AVFoundation
 import Foundation
 import LeapCoreSDK
 import Swift
+import SystemConfiguration
 import UIKit
 import WebKit
 import _Concurrency
@@ -33,6 +34,7 @@ import _Concurrency
   @objc public func setUniqueUserId(_ uniqueId: Swift.String)
   @objc public func startProject(_ projectId: Swift.String, resetProject: Swift.Bool = false)
   @objc public func embedProject(_ projectId: Swift.String)
+  @objc public func offlineSync(_ projectIds: [Swift.String])
   @objc public func disable()
   @objc deinit
 }
