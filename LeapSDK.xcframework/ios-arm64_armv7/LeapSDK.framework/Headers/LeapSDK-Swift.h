@@ -233,7 +233,6 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Leap * _Nonn
 - (Leap * _Nonnull)addProperty:(NSString * _Nonnull)key stringValue:(NSString * _Nonnull)stringValue;
 - (Leap * _Nonnull)addProperty:(NSString * _Nonnull)key intValue:(NSInteger)intValue;
 - (Leap * _Nonnull)addProperty:(NSString * _Nonnull)key dateValue:(NSDate * _Nonnull)dateValue;
-- (Leap * _Nonnull)addUniqueUserId:(NSString * _Nonnull)uniqueId;
 - (void)start;
 - (void)flush;
 - (void)start:(NSString * _Nonnull)apiKey;
@@ -243,6 +242,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Leap * _Nonn
 - (void)embedProject:(NSString * _Nonnull)projectId;
 - (void)offlineSync:(NSArray<NSString *> * _Nonnull)projectIds;
 - (void)disable;
+- (void)logout;
 @end
 
 
@@ -500,7 +500,6 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Leap * _Nonn
 - (Leap * _Nonnull)addProperty:(NSString * _Nonnull)key stringValue:(NSString * _Nonnull)stringValue;
 - (Leap * _Nonnull)addProperty:(NSString * _Nonnull)key intValue:(NSInteger)intValue;
 - (Leap * _Nonnull)addProperty:(NSString * _Nonnull)key dateValue:(NSDate * _Nonnull)dateValue;
-- (Leap * _Nonnull)addUniqueUserId:(NSString * _Nonnull)uniqueId;
 - (void)start;
 - (void)flush;
 - (void)start:(NSString * _Nonnull)apiKey;
@@ -510,6 +509,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Leap * _Nonn
 - (void)embedProject:(NSString * _Nonnull)projectId;
 - (void)offlineSync:(NSArray<NSString *> * _Nonnull)projectIds;
 - (void)disable;
+- (void)logout;
 @end
 
 

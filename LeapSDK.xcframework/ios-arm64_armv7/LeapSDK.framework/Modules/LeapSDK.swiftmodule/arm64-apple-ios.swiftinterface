@@ -30,8 +30,6 @@ import _Concurrency
   @objc public func addProperty(_ key: Swift.String, intValue: Swift.Int) -> LeapSDK.Leap
   @discardableResult
   @objc public func addProperty(_ key: Swift.String, dateValue: Foundation.Date) -> LeapSDK.Leap
-  @discardableResult
-  @objc public func addUniqueUserId(_ uniqueId: Swift.String) -> LeapSDK.Leap
   @objc public func start()
   @objc public func flush()
   @objc public func start(_ apiKey: Swift.String)
@@ -41,5 +39,6 @@ import _Concurrency
   @objc public func embedProject(_ projectId: Swift.String)
   @objc public func offlineSync(_ projectIds: [Swift.String])
   @objc public func disable()
+  @objc public func logout()
   @objc deinit
 }
