@@ -9,6 +9,8 @@ import SystemConfiguration
 import UIKit
 import WebKit
 import _Concurrency
+import os.log
+import os
 @objc public protocol LeapCallback : ObjectiveC.NSObjectProtocol {
   @objc func eventNotification(eventInfo: Swift.Dictionary<Swift.String, Any>)
 }
