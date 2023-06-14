@@ -260,6 +260,7 @@ SWIFT_PROTOCOL("_TtP7LeapSDK12LeapCallback_")
 
 
 
+
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
 #endif
@@ -527,6 +528,7 @@ SWIFT_PROTOCOL("_TtP7LeapSDK12LeapCallback_")
 
 
 
+
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
 #endif
@@ -786,6 +788,7 @@ SWIFT_PROTOCOL("_TtP7LeapSDK12LeapCallback_")
 @protocol LeapCallback <NSObject>
 - (void)eventNotificationWithEventInfo:(NSDictionary<NSString *, id> * _Nonnull)eventInfo;
 @end
+
 
 
 
