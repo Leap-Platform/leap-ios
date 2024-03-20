@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7uKhr1iK8HOV/fpgAIq3sVHsBtk=
+		ICM7fuvVXXIl8jFEqiTQq9e1+9E=
 		</data>
 		<key>Modules/LeapSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		1sUa2XVxQxHUB1Tl6/Dbbo2vZIk=
+		AqfrMMI3ArXzKXgaqUSBW79HK6s=
 		</data>
 		<key>Modules/LeapSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/LeapSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		raLTYKorI9RgiOXK8M+qcxK9uFg=
+		/vBeehNO8WEnutFzPWhfKaVN9cQ=
 		</data>
 		<key>Modules/LeapSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		1sUa2XVxQxHUB1Tl6/Dbbo2vZIk=
+		AqfrMMI3ArXzKXgaqUSBW79HK6s=
 		</data>
 		<key>Modules/LeapSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/LeapSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ugChyKvChKsyDBJ6z7tV58z0mQo=
+		bv26yWNuJOwW+jsg9UjyS1Q2s7A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -136,11 +136,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1sUa2XVxQxHUB1Tl6/Dbbo2vZIk=
+			AqfrMMI3ArXzKXgaqUSBW79HK6s=
 			</data>
 			<key>hash2</key>
 			<data>
-			uAmmjTnHHOUJTJ2fiPp1hE0R+IWz8vTKleTnyescUtI=
+			OBwUIyvsZz0Nf5lxTYwSH+oIuDUOp6x58UODE1th4QE=
 			</data>
 		</dict>
 		<key>Modules/LeapSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -180,22 +180,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			raLTYKorI9RgiOXK8M+qcxK9uFg=
+			/vBeehNO8WEnutFzPWhfKaVN9cQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Mh8IUj6nYVIid5JPxuESQVhr4Hn/OwCzNYQk2zz4MVA=
+			S6xgNyZn0NnspdDZ3jTLrtvI65tTWLw9o3162ZvcWU0=
 			</data>
 		</dict>
 		<key>Modules/LeapSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1sUa2XVxQxHUB1Tl6/Dbbo2vZIk=
+			AqfrMMI3ArXzKXgaqUSBW79HK6s=
 			</data>
 			<key>hash2</key>
 			<data>
-			uAmmjTnHHOUJTJ2fiPp1hE0R+IWz8vTKleTnyescUtI=
+			OBwUIyvsZz0Nf5lxTYwSH+oIuDUOp6x58UODE1th4QE=
 			</data>
 		</dict>
 		<key>Modules/LeapSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -235,11 +235,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ugChyKvChKsyDBJ6z7tV58z0mQo=
+			bv26yWNuJOwW+jsg9UjyS1Q2s7A=
 			</data>
 			<key>hash2</key>
 			<data>
-			9k8bGx5kmi9IQAXtKruxs00HI4xQXraSWKGAx4Z56Fc=
+			3RmXKMZ/W2yg1WyRkIIQ2MbUzi/RQn0SMZFUlJHt3qU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

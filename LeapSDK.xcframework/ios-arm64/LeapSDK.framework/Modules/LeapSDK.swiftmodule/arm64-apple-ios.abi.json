@@ -1761,6 +1761,23 @@
       },
       {
         "kind": "Import",
+        "name": "LeapCoreSDK",
+        "printedName": "LeapCoreSDK",
+        "declKind": "Import",
+        "moduleName": "LeapSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LeapSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -7248,6 +7265,90 @@
       "value": "\"Empty Url\""
     },
     {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Utils\/LeapService.swift",
+      "kind": "StringLiteral",
+      "offset": 2578,
+      "length": 54,
+      "value": "\"pBWmiQ8HCKllVJd2xQ5Cd7d5defd9e1e4f7a8882c34ff75f0d36\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Utils\/LeapService.swift",
+      "kind": "StringLiteral",
+      "offset": 2664,
+      "length": 13,
+      "value": "\"x-client-id\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Utils\/LeapService.swift",
+      "kind": "StringLiteral",
+      "offset": 2714,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Utils\/LeapService.swift",
+      "kind": "StringLiteral",
+      "offset": 2767,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Utils\/LeapService.swift",
+      "kind": "StringLiteral",
+      "offset": 2815,
+      "length": 11,
+      "value": "\"x-leap-id\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Utils\/LeapService.swift",
+      "kind": "StringLiteral",
+      "offset": 2862,
+      "length": 18,
+      "value": "\"x-jiny-client-id\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Utils\/LeapService.swift",
+      "kind": "StringLiteral",
+      "offset": 2918,
+      "length": 20,
+      "value": "\"x-app-version-code\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Utils\/LeapService.swift",
+      "kind": "StringLiteral",
+      "offset": 2976,
+      "length": 20,
+      "value": "\"x-app-version-name\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Utils\/LeapService.swift",
+      "kind": "StringLiteral",
+      "offset": 3060,
+      "length": 13,
+      "value": "\"isExecuting\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Utils\/LeapService.swift",
+      "kind": "StringLiteral",
+      "offset": 3106,
+      "length": 12,
+      "value": "\"isFinished\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Utils\/LeapService.swift",
+      "kind": "StringLiteral",
+      "offset": 3150,
+      "length": 21,
+      "value": "\"Leap Download Queue\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Utils\/LeapService.swift",
+      "kind": "StringLiteral",
+      "offset": 3209,
+      "length": 6,
+      "value": "\"Leap\""
+    },
+    {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
       "offset": 305,
@@ -7285,532 +7386,553 @@
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 1083,
+      "offset": 1094,
+      "length": 20,
+      "value": "\"WfxLogModel.sqlite\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1346,
+      "length": 8,
+      "value": "\"DELETE\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1384,
+      "length": 14,
+      "value": "\"journal_mode\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1606,
       "length": 44,
       "value": "\"Unable to load persistent stores: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 1126,
+      "offset": 1649,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 2439,
+      "offset": 2962,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 2490,
+      "offset": 3013,
       "length": 11,
       "value": "\"sessionId\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 2556,
+      "offset": 3079,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 2620,
+      "offset": 3143,
       "length": 9,
       "value": "\"subType\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 2683,
+      "offset": 3206,
       "length": 5,
       "value": "\"sdk\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 2744,
+      "offset": 3267,
       "length": 7,
       "value": "\"title\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 2810,
+      "offset": 3333,
       "length": 10,
       "value": "\"subTitle\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 2880,
+      "offset": 3403,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 2949,
+      "offset": 3472,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 3015,
+      "offset": 3538,
       "length": 8,
       "value": "\"extras\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 3115,
+      "offset": 3638,
       "length": 15,
       "value": "\"wfxLogSession\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 3350,
+      "offset": 3873,
       "length": 36,
       "value": "\"Error: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 3366,
+      "offset": 3889,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 3385,
+      "offset": 3908,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 3948,
+      "offset": 4471,
       "length": 11,
       "value": "\"sessionId\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 4023,
+      "offset": 4546,
       "length": 11,
       "value": "\"createdAt\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 4096,
+      "offset": 4619,
       "length": 9,
       "value": "\"endedAt\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 4166,
+      "offset": 4689,
       "length": 8,
       "value": "\"extras\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 4239,
+      "offset": 4762,
       "length": 12,
       "value": "\"appVersion\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 4316,
+      "offset": 4839,
       "length": 12,
       "value": "\"sdkVersion\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 4548,
+      "offset": 5071,
       "length": 36,
       "value": "\"Error: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 4564,
+      "offset": 5087,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 4583,
+      "offset": 5106,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 5108,
+      "offset": 5631,
       "length": 29,
       "value": "\"Error saving data: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 5136,
+      "offset": 5659,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "Array",
-      "offset": 5354,
+      "offset": 5877,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 5474,
+      "offset": 5997,
       "length": 59,
       "value": "\"❌ Failed to fetch Log: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 5532,
+      "offset": 6055,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "Array",
-      "offset": 5780,
+      "offset": 6303,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 5904,
+      "offset": 6427,
       "length": 59,
       "value": "\"❌ Failed to fetch Log: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 5962,
+      "offset": 6485,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 6605,
+      "offset": 7128,
       "length": 95,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6614,
+      "offset": 7137,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 6616,
+      "offset": 7139,
       "length": 1,
       "value": "\". SessionId - \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 6653,
+      "offset": 7176,
       "length": 4,
       "value": "\"-1\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 6658,
+      "offset": 7181,
       "length": 1,
       "value": "\", createdAt: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 6694,
+      "offset": 7217,
       "length": 4,
       "value": "\"-1\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 6699,
+      "offset": 7222,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 7273,
+      "offset": 7796,
       "length": 90,
       "value": "\"Deleted sessionId: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 7316,
+      "offset": 7839,
       "length": 4,
       "value": "\"-1\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 7321,
+      "offset": 7844,
       "length": 1,
       "value": "\", createdAt: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 7357,
+      "offset": 7880,
       "length": 4,
       "value": "\"-1\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 7362,
+      "offset": 7885,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 7538,
+      "offset": 8061,
       "length": 29,
       "value": "\"Error saving data: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 7566,
+      "offset": 8089,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 7813,
+      "offset": 8336,
       "length": 17,
       "value": "\"sessionId == %@\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 8170,
+      "offset": 8693,
       "length": 53,
       "value": "\"Log Message: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 8206,
+      "offset": 8729,
       "length": 15,
       "value": "\"Unknown Title\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 8222,
+      "offset": 8745,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 8353,
+      "offset": 8876,
       "length": 32,
       "value": "\"Failed to fetch data: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 8384,
+      "offset": 8907,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 8666,
+      "offset": 9189,
       "length": 17,
       "value": "\"sessionId == %@\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 8843,
+      "offset": 9366,
       "length": 35,
       "value": "\"Error fetching sessions: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 8877,
+      "offset": 9400,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 9186,
+      "offset": 9709,
       "length": 17,
       "value": "\"sessionId == %@\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 9536,
+      "offset": 10059,
       "length": 29,
       "value": "\"Error saving data: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 9564,
+      "offset": 10087,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 9635,
+      "offset": 10158,
       "length": 48,
       "value": "\"Error deleting sessions by sessionId: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 9682,
+      "offset": 10205,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 10415,
+      "offset": 10938,
       "length": 56,
       "value": "\"Error deleting data for entity \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 10460,
+      "offset": 10983,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 10470,
+      "offset": 10993,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 10737,
+      "offset": 11260,
       "length": 47,
       "value": "\"Error saving managed object context: \""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 10783,
+      "offset": 11306,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 11207,
+      "offset": 11730,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 11549,
+      "offset": 12072,
       "length": 17,
       "value": "\"sessionId == %@\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 11609,
+      "offset": 12132,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 11754,
+      "offset": 12277,
       "length": 12,
       "value": "\"type == %@\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 12266,
+      "offset": 12789,
       "length": 11,
       "value": "\"sessionId\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 12290,
+      "offset": 12813,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 12398,
+      "offset": 12921,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 12422,
+      "offset": 12945,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "StringLiteral",
-      "offset": 12593,
+      "offset": 13116,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/CoreData\/LeapCoreDataManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 12617,
+      "offset": 13140,
       "length": 4,
       "value": "true"
     },
@@ -9348,34 +9470,6 @@
       "value": "20"
     },
     {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapNetworking.swift",
-      "kind": "StringLiteral",
-      "offset": 5233,
-      "length": 13,
-      "value": "\"isExecuting\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapNetworking.swift",
-      "kind": "StringLiteral",
-      "offset": 5279,
-      "length": 12,
-      "value": "\"isFinished\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapNetworking.swift",
-      "kind": "StringLiteral",
-      "offset": 5323,
-      "length": 21,
-      "value": "\"Leap Download Queue\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapNetworking.swift",
-      "kind": "StringLiteral",
-      "offset": 5382,
-      "length": 6,
-      "value": "\"Leap\""
-    },
-    {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapAUIComponents\/Leap Extensions\/Leap+UIColor.swift",
       "kind": "IntegerLiteral",
       "offset": 502,
@@ -9846,547 +9940,148 @@
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 2913,
-      "length": 8,
-      "value": "\"Public\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 2932,
-      "length": 8,
-      "value": "\"apiKey\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 2947,
-      "length": 5,
-      "value": "\"AUI\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 3013,
-      "length": 11,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 3023,
-      "length": 3,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "IntegerLiteral",
-      "offset": 3443,
+      "offset": 3343,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "StringLiteral",
-      "offset": 3588,
-      "length": 8,
-      "value": "\"Public\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 3607,
-      "length": 20,
-      "value": "\"selfHosted Builder\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 3634,
-      "length": 5,
-      "value": "\"AUI\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 3700,
-      "length": 37,
-      "value": "\"withSelfHostedBuilder method called\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 4127,
+      "offset": 3929,
       "length": 53,
       "value": "\"API Key shall not be provided for self hosting mode\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4963,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5668,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6119,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "IntegerLiteral",
-      "offset": 6578,
-      "length": 2,
-      "value": "11"
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 6768,
-      "length": 8,
-      "value": "\"Public\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 6787,
-      "length": 17,
-      "value": "\"selfHosting Url\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 6811,
-      "length": 5,
-      "value": "\"AUI\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 6877,
-      "length": 24,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 6891,
-      "length": 8,
-      "value": "\"No Url\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 6900,
-      "length": 3,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7045,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 7165,
-      "length": 17,
-      "value": "\"Api Key missing\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 7263,
-      "length": 8,
-      "value": "\"Public\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 7282,
-      "length": 8,
-      "value": "\"apiKey\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 7297,
-      "length": 5,
-      "value": "\"AUI\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 7363,
-      "length": 11,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 7373,
-      "length": 3,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7474,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7524,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 7543,
-      "length": 26,
-      "value": "\"[Leap]SDK is initialised\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7864,
+      "offset": 6459,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "BooleanLiteral",
-      "offset": 7999,
+      "offset": 6665,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6963,
+      "length": 2,
+      "value": "11"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7174,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "IntegerLiteral",
-      "offset": 8399,
+      "offset": 7681,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 8830,
-      "length": 8,
-      "value": "\"Public\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 8849,
-      "length": 14,
-      "value": "\"uniqueUserId\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 8870,
-      "length": 5,
-      "value": "\"AUI\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 9294,
-      "length": 8,
-      "value": "\"Public\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 9313,
-      "length": 12,
-      "value": "\"localeCode\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 9332,
-      "length": 5,
-      "value": "\"AUI\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "BooleanLiteral",
-      "offset": 9762,
+      "offset": 9001,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "IntegerLiteral",
-      "offset": 9884,
+      "offset": 9123,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 9980,
-      "length": 8,
-      "value": "\"Public\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 9999,
-      "length": 11,
-      "value": "\"projectId\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 10017,
+      "kind": "BooleanLiteral",
+      "offset": 9263,
       "length": 5,
-      "value": "\"AUI\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 10212,
-      "length": 8,
-      "value": "\"Public\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 10231,
-      "length": 11,
-      "value": "\"projectId\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 10249,
-      "length": 5,
-      "value": "\"AUI\""
+      "value": "false"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "IntegerLiteral",
-      "offset": 10721,
+      "offset": 9706,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 10817,
-      "length": 8,
-      "value": "\"Public\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 10836,
-      "length": 11,
-      "value": "\"projectId\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 10854,
-      "length": 5,
-      "value": "\"AUI\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 11050,
-      "length": 8,
-      "value": "\"Public\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 11069,
-      "length": 11,
-      "value": "\"projectId\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 11087,
-      "length": 5,
-      "value": "\"AUI\""
+      "kind": "BooleanLiteral",
+      "offset": 9847,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "IntegerLiteral",
-      "offset": 11592,
+      "offset": 10333,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "StringLiteral",
-      "offset": 11688,
+      "offset": 10764,
       "length": 8,
       "value": "\"Public\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "StringLiteral",
-      "offset": 11707,
-      "length": 12,
-      "value": "\"projectIds\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 11726,
-      "length": 5,
-      "value": "\"AUI\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 11792,
-      "length": 15,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 11806,
-      "length": 3,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 11928,
-      "length": 8,
-      "value": "\"Public\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 11947,
-      "length": 12,
-      "value": "\"projectIds\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 11966,
-      "length": 5,
-      "value": "\"AUI\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 12032,
-      "length": 15,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 12046,
-      "length": 3,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 12289,
-      "length": 8,
-      "value": "\"Public\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 12308,
+      "offset": 10783,
       "length": 12,
       "value": "\"disableSDK\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "StringLiteral",
-      "offset": 12327,
+      "offset": 10802,
       "length": 5,
       "value": "\"AUI\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "StringLiteral",
-      "offset": 12393,
+      "offset": 10868,
       "length": 27,
       "value": "\"disable SDK method called\""
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "BooleanLiteral",
-      "offset": 12499,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 12773,
-      "length": 8,
-      "value": "\"Public\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 12792,
-      "length": 8,
-      "value": "\"logout\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 12807,
-      "length": 5,
-      "value": "\"AUI\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "StringLiteral",
-      "offset": 12873,
-      "length": 22,
-      "value": "\"logout method called\""
-    },
-    {
-      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
-      "kind": "BooleanLiteral",
-      "offset": 13252,
+      "offset": 10974,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "BooleanLiteral",
-      "offset": 13275,
+      "offset": 11635,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11658,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "BooleanLiteral",
-      "offset": 14002,
+      "offset": 12385,
       "length": 4,
       "value": "true"
     },
@@ -20805,6 +20500,559 @@
       "offset": 407,
       "length": 3,
       "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 414,
+      "length": 27,
+      "value": "\"Leap Public Methods Queue\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "IntegerLiteral",
+      "offset": 488,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 646,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 763,
+      "length": 13,
+      "value": "\"isExecuting\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 840,
+      "length": 13,
+      "value": "\"isExecuting\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 701,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 1040,
+      "length": 12,
+      "value": "\"isFinished\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 1116,
+      "length": 12,
+      "value": "\"isFinished\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 978,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 1779,
+      "length": 8,
+      "value": "\"Public\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 1798,
+      "length": 8,
+      "value": "\"apiKey\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 1813,
+      "length": 5,
+      "value": "\"AUI\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 1879,
+      "length": 16,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 1894,
+      "length": 3,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1924,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 1391,
+      "length": 30,
+      "value": "\"LeapSDK.LeapWithBuilderPublicOperation\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 2210,
+      "length": 8,
+      "value": "\"Public\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 2229,
+      "length": 20,
+      "value": "\"selfHosted Builder\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 2256,
+      "length": 5,
+      "value": "\"AUI\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 2322,
+      "length": 37,
+      "value": "\"withSelfHostedBuilder method called\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2388,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2722,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 2424,
+      "length": 23,
+      "value": "\"LeapSDK.LeapSetBaseUrlOperation\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3178,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3570,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3680,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4285,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4386,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 2758,
+      "length": 24,
+      "value": "\"LeapSDK.LeapAddPropertyOperation\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 4840,
+      "length": 8,
+      "value": "\"Public\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 4859,
+      "length": 17,
+      "value": "\"selfHosting Url\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 4883,
+      "length": 5,
+      "value": "\"AUI\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 4949,
+      "length": 24,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 4963,
+      "length": 8,
+      "value": "\"No Url\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 4972,
+      "length": 3,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5206,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 5360,
+      "length": 17,
+      "value": "\"Api Key missing\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 5462,
+      "length": 8,
+      "value": "\"Public\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 5481,
+      "length": 8,
+      "value": "\"apiKey\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 5496,
+      "length": 5,
+      "value": "\"AUI\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 5562,
+      "length": 11,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 5572,
+      "length": 3,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5682,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5795,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 4422,
+      "length": 18,
+      "value": "\"LeapSDK.LeapStartOperation\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6375,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6589,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 5853,
+      "length": 18,
+      "value": "\"LeapSDK.LeapFlushOperation\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7003,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 6666,
+      "length": 34,
+      "value": "\"LeapSDK.LeapStartWithAPIKeyPublicOperation\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 7319,
+      "length": 8,
+      "value": "\"Public\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 7338,
+      "length": 14,
+      "value": "\"uniqueUserId\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 7359,
+      "length": 5,
+      "value": "\"AUI\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7555,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 7034,
+      "length": 20,
+      "value": "\"LeapSDK.LeapSetUserOperation\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 7901,
+      "length": 8,
+      "value": "\"Public\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 7920,
+      "length": 12,
+      "value": "\"localeCode\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 7939,
+      "length": 5,
+      "value": "\"AUI\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8105,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 7602,
+      "length": 22,
+      "value": "\"LeapSDK.LeapAppLocaleOperation\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8341,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 8609,
+      "length": 8,
+      "value": "\"Public\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 8628,
+      "length": 11,
+      "value": "\"projectId\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 8646,
+      "length": 5,
+      "value": "\"AUI\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8883,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9098,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 8151,
+      "length": 25,
+      "value": "\"LeapSDK.LeapStartProjectOperation\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 9473,
+      "length": 8,
+      "value": "\"Public\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 9492,
+      "length": 12,
+      "value": "\"projectIds\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 9511,
+      "length": 5,
+      "value": "\"AUI\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 9577,
+      "length": 20,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 9596,
+      "length": 3,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9716,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 9163,
+      "length": 24,
+      "value": "\"LeapSDK.LeapOfflineSyncOperation\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 9959,
+      "length": 8,
+      "value": "\"Public\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 9978,
+      "length": 8,
+      "value": "\"logout\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 9993,
+      "length": 5,
+      "value": "\"AUI\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "StringLiteral",
+      "offset": 10059,
+      "length": 22,
+      "value": "\"logout method called\""
+    },
+    {
+      "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10178,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/achyuth\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapButton\/LeapTappable.swift",
