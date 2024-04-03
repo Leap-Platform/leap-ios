@@ -402,6 +402,7 @@ SWIFT_PROTOCOL("_TtP7LeapSDK12LeapCallback_")
 
 
 
+
 @class NSEntityDescription;
 @class NSManagedObjectContext;
 
@@ -862,6 +863,7 @@ SWIFT_PROTOCOL("_TtP7LeapSDK12LeapCallback_")
 ///
 - (void)eventNotificationWithEventInfo:(NSDictionary<NSString *, id> * _Nonnull)eventInfo;
 @end
+
 
 
 
