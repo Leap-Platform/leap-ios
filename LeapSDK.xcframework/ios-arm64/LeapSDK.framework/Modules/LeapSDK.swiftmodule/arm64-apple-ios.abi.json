@@ -1316,23 +1316,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "LeapSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LeapSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1804,40 +1787,6 @@
         "kind": "Import",
         "name": "LeapCoreSDK",
         "printedName": "LeapCoreSDK",
-        "declKind": "Import",
-        "moduleName": "LeapSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LeapSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "LeapSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LeapSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "LeapSDK"
       },
@@ -4811,28 +4760,28 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapKeyWindowAssist\/LeapKeyWindowComponents\/LeapDrawer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4574,
+      "offset": 4509,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapWebAssist.swift",
       "kind": "StringLiteral",
-      "offset": 918,
+      "offset": 883,
       "length": 195,
       "value": "\"var meta = document.createElement('meta'); meta.setAttribute('name', 'viewport'); meta.setAttribute('content', 'width=device-width'); document.getElementsByTagName('head')[0].appendChild(meta);\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapWebAssist.swift",
       "kind": "BooleanLiteral",
-      "offset": 16143,
+      "offset": 16031,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapWebAssist.swift",
       "kind": "IntegerLiteral",
-      "offset": 17044,
+      "offset": 16932,
       "length": 1,
       "value": "0"
     },
@@ -5064,13 +5013,6 @@
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapMainButton.swift",
       "kind": "BooleanLiteral",
       "offset": 1523,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapMainButton.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1989,
       "length": 5,
       "value": "false"
     },
@@ -5558,39 +5500,11 @@
       "value": "\"fade\""
     },
     {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
-      "kind": "StringLiteral",
-      "offset": 2477,
-      "length": 5,
-      "value": "\"ang\""
-    },
-    {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeAssist.swift",
       "kind": "StringLiteral",
       "offset": 183,
       "length": 22,
       "value": "\"LeapSDK.LeapInViewNativeAssist\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapAUIComponentsDecider.swift",
-      "kind": "BooleanLiteral",
-      "offset": 469,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapAUIComponentsDecider.swift",
-      "kind": "StringLiteral",
-      "offset": 539,
-      "length": 5,
-      "value": "\"ang\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapAUIComponentsDecider.swift",
-      "kind": "Dictionary",
-      "offset": 619,
-      "length": 3,
-      "value": "[]"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapDisableAssistance\/LeapDisableAssistanceDialog.swift",
@@ -5679,7 +5593,7 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapKeyWindowAssist\/LeapKeyWindowComponents\/LeapPing.swift",
       "kind": "IntegerLiteral",
-      "offset": 3432,
+      "offset": 3369,
       "length": 1,
       "value": "0"
     },
@@ -8801,14 +8715,14 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapKeyWindowAssist\/LeapKeyWindowComponents\/LeapFullScreen\/LeapFullScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 2132,
+      "offset": 2045,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapKeyWindowAssist\/LeapKeyWindowAssist.swift",
       "kind": "Dictionary",
-      "offset": 2250,
+      "offset": 2195,
       "length": 3,
       "value": "[]"
     },
@@ -8857,28 +8771,28 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 769,
+      "offset": 730,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 20893,
+      "offset": 13941,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 20917,
+      "offset": 13965,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIManager.swift",
       "kind": "Dictionary",
-      "offset": 49594,
+      "offset": 42573,
       "length": 3,
       "value": "[]"
     },
@@ -8962,7 +8876,7 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapKeyWindowAssist\/LeapKeyWindowComponents\/LeapCarousel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3291,
+      "offset": 3114,
       "length": 1,
       "value": "0"
     },
@@ -11263,69 +11177,6 @@
       "value": "\"LeapSDK.LeapTappable\""
     },
     {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconButton.swift",
-      "kind": "BooleanLiteral",
-      "offset": 301,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconButton.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1627,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconButton.swift",
-      "kind": "StringLiteral",
-      "offset": 183,
-      "length": 14,
-      "value": "\"LeapSDK.LeapIconButton\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconDragCloseView.swift",
-      "kind": "StringLiteral",
-      "offset": 369,
-      "length": 11,
-      "value": "\"#99090909\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconDragCloseView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 528,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconDragCloseView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 534,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconDragCloseView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 581,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconDragCloseView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 587,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconDragCloseView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 799,
-      "length": 2,
-      "value": "50"
-    },
-    {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapAssistInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 540,
@@ -11335,77 +11186,77 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5165,
+      "offset": 5357,
       "length": 25,
       "value": "\"yyyy-MM-dd HH:mm:ss.SSS\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6524,
+      "offset": 6716,
       "length": 25,
       "value": "\"yyyy-MM-dd HH:mm:ss.SSS\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7978,
+      "offset": 8170,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 8070,
+      "offset": 8262,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8352,
+      "offset": 8544,
       "length": 6,
       "value": "\"i386\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8360,
+      "offset": 8552,
       "length": 8,
       "value": "\"x86_64\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8370,
+      "offset": 8562,
       "length": 7,
       "value": "\"arm64\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8402,
+      "offset": 8594,
       "length": 104,
       "value": "\"Simulator \""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8465,
+      "offset": 8657,
       "length": 28,
       "value": "\"SIMULATOR_MODEL_IDENTIFIER\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8498,
+      "offset": 8690,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8505,
+      "offset": 8697,
       "length": 1,
       "value": "\"\""
     },
@@ -11874,56 +11725,56 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 11585,
+      "offset": 10497,
       "length": 12,
       "value": "\"SWIPE_LEFT\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 11620,
+      "offset": 10532,
       "length": 13,
       "value": "\"SWIPE_RIGHT\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 11653,
+      "offset": 10565,
       "length": 10,
       "value": "\"SWIPE_UP\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 11685,
+      "offset": 10597,
       "length": 12,
       "value": "\"SWIPE_DOWN\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 11585,
+      "offset": 10497,
       "length": 12,
       "value": "\"SWIPE_LEFT\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 11620,
+      "offset": 10532,
       "length": 13,
       "value": "\"SWIPE_RIGHT\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 11653,
+      "offset": 10565,
       "length": 10,
       "value": "\"SWIPE_UP\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 11685,
+      "offset": 10597,
       "length": 12,
       "value": "\"SWIPE_DOWN\""
     },
