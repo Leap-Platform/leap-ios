@@ -250,6 +250,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LeapSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -1163,23 +1173,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "LeapSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LeapSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1262,6 +1255,13 @@
       },
       {
         "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "LeapSDK"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1269,6 +1269,47 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LeapSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LeapSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "LeapSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LeapSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LeapSDK"
       },
       {
         "kind": "Import",
@@ -1323,6 +1364,23 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LeapSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LeapSDK"
       },
       {
         "kind": "Import",
@@ -1561,13 +1619,6 @@
       },
       {
         "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "LeapSDK"
-      },
-      {
-        "kind": "Import",
         "name": "WebKit",
         "printedName": "WebKit",
         "declKind": "Import",
@@ -1604,6 +1655,33 @@
         "kind": "Import",
         "name": "WebKit",
         "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "LeapSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LeapSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LeapSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "LeapSDK"
       },
@@ -1621,33 +1699,6 @@
         "kind": "Import",
         "name": "os.log",
         "printedName": "os.log",
-        "declKind": "Import",
-        "moduleName": "LeapSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LeapSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LeapSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "LeapSDK"
       },
@@ -1775,16 +1826,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LeapSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "LeapCoreSDK",
         "printedName": "LeapCoreSDK",
         "declKind": "Import",
@@ -1819,6 +1860,40 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LeapSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LeapSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LeapSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LeapSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1880,6 +1955,23 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LeapSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LeapSDK"
       },
       {
         "kind": "Import",
@@ -1929,6 +2021,13 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LeapSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
         "declKind": "Import",
         "moduleName": "LeapSDK"
       },
@@ -4760,28 +4859,35 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapKeyWindowAssist\/LeapKeyWindowComponents\/LeapDrawer.swift",
       "kind": "IntegerLiteral",
-      "offset": 4509,
+      "offset": 4574,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapWebAssist.swift",
+      "kind": "BooleanLiteral",
+      "offset": 794,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapWebAssist.swift",
       "kind": "StringLiteral",
-      "offset": 883,
+      "offset": 957,
       "length": 195,
       "value": "\"var meta = document.createElement('meta'); meta.setAttribute('name', 'viewport'); meta.setAttribute('content', 'width=device-width'); document.getElementsByTagName('head')[0].appendChild(meta);\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapWebAssist.swift",
       "kind": "BooleanLiteral",
-      "offset": 16031,
+      "offset": 16214,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapWebAssist.swift",
       "kind": "IntegerLiteral",
-      "offset": 16932,
+      "offset": 17187,
       "length": 1,
       "value": "0"
     },
@@ -5018,6 +5124,13 @@
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapMainButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1989,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapMainButton.swift",
       "kind": "StringLiteral",
       "offset": 498,
       "length": 14,
@@ -5229,7 +5342,14 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapNativeAssist.swift",
       "kind": "BooleanLiteral",
-      "offset": 1976,
+      "offset": 351,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapNativeAssist.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2123,
       "length": 5,
       "value": "false"
     },
@@ -5257,7 +5377,7 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapPropertiesHandler.swift",
       "kind": "Dictionary",
-      "offset": 467,
+      "offset": 475,
       "length": 3,
       "value": "[]"
     },
@@ -5320,23 +5440,9 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "BooleanLiteral",
-      "offset": 9149,
+      "offset": 9025,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsNetworkManager.swift",
-      "kind": "StringLiteral",
-      "offset": 507,
-      "length": 51,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsNetworkManager.swift",
-      "kind": "StringLiteral",
-      "offset": 535,
-      "length": 1,
-      "value": "\"\/odin\/api\/v1\/apps\/logs\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapMedia.swift",
@@ -5390,114 +5496,121 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "StringLiteral",
-      "offset": 248,
+      "offset": 262,
       "length": 8,
       "value": "\"circle\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "StringLiteral",
-      "offset": 273,
+      "offset": 287,
       "length": 6,
       "value": "\"rect\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "StringLiteral",
-      "offset": 299,
+      "offset": 313,
       "length": 9,
       "value": "\"capsule\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "StringLiteral",
-      "offset": 248,
+      "offset": 262,
       "length": 8,
       "value": "\"circle\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "StringLiteral",
-      "offset": 273,
+      "offset": 287,
       "length": 6,
       "value": "\"rect\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "StringLiteral",
-      "offset": 299,
+      "offset": 313,
       "length": 9,
       "value": "\"capsule\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 716,
+      "offset": 730,
       "length": 4,
       "value": "10.0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 821,
+      "offset": 835,
       "length": 4,
       "value": "10.0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "FloatLiteral",
-      "offset": 915,
+      "offset": 929,
       "length": 3,
       "value": "5.0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1005,
+      "offset": 1019,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "StringLiteral",
-      "offset": 2188,
+      "offset": 2202,
       "length": 7,
       "value": "\"pulse\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "StringLiteral",
-      "offset": 2219,
+      "offset": 2233,
       "length": 9,
       "value": "\"opacity\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "StringLiteral",
-      "offset": 2249,
+      "offset": 2263,
       "length": 6,
       "value": "\"fade\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "StringLiteral",
-      "offset": 2188,
+      "offset": 2202,
       "length": 7,
       "value": "\"pulse\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "StringLiteral",
-      "offset": 2219,
+      "offset": 2233,
       "length": 9,
       "value": "\"opacity\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
       "kind": "StringLiteral",
-      "offset": 2249,
+      "offset": 2263,
       "length": 6,
       "value": "\"fade\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebComponents\/LeapTipView.swift",
+      "kind": "StringLiteral",
+      "offset": 2491,
+      "length": 5,
+      "value": "\"ang\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeAssist.swift",
@@ -5505,6 +5618,27 @@
       "offset": 183,
       "length": 22,
       "value": "\"LeapSDK.LeapInViewNativeAssist\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapAUIComponentsDecider.swift",
+      "kind": "BooleanLiteral",
+      "offset": 541,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapAUIComponentsDecider.swift",
+      "kind": "StringLiteral",
+      "offset": 611,
+      "length": 5,
+      "value": "\"ang\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapAUIComponentsDecider.swift",
+      "kind": "Dictionary",
+      "offset": 691,
+      "length": 3,
+      "value": "[]"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapDisableAssistance\/LeapDisableAssistanceDialog.swift",
@@ -5584,6 +5718,20 @@
       "value": "[]"
     },
     {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsNetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 507,
+      "length": 51,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsNetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 535,
+      "length": 1,
+      "value": "\"\/odin\/api\/v1\/apps\/logs\""
+    },
+    {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapKeyWindowAssist\/LeapKeyWindowComponents\/LeapPing.swift",
       "kind": "IntegerLiteral",
       "offset": 553,
@@ -5593,7 +5741,7 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapKeyWindowAssist\/LeapKeyWindowComponents\/LeapPing.swift",
       "kind": "IntegerLiteral",
-      "offset": 3369,
+      "offset": 3432,
       "length": 1,
       "value": "0"
     },
@@ -8323,154 +8471,161 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 17775,
+      "offset": 17774,
+      "length": 24,
+      "value": "\"all_user_properties_js\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 17831,
       "length": 30,
       "value": "\"leap_default_long_properties\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 17839,
+      "offset": 17895,
       "length": 32,
       "value": "\"leap_default_string_properties\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 17902,
+      "offset": 17958,
       "length": 29,
       "value": "\"leap_default_int_properties\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 17957,
+      "offset": 18013,
       "length": 23,
       "value": "\"leap_last_session_end\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18002,
+      "offset": 18058,
       "length": 27,
       "value": "\"leap_last_session_version\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18080,
+      "offset": 18136,
       "length": 17,
       "value": "\"carouselSlideId\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18137,
+      "offset": 18193,
       "length": 25,
       "value": "\"carouselPreviousSlideId\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18197,
+      "offset": 18253,
       "length": 20,
       "value": "\"carouselSlideIndex\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18260,
+      "offset": 18316,
       "length": 28,
       "value": "\"carouselPreviousSlideIndex\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18322,
+      "offset": 18378,
       "length": 19,
       "value": "\"carouselDirection\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18375,
+      "offset": 18431,
       "length": 19,
       "value": "\"carouselCompleted\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18435,
+      "offset": 18491,
       "length": 5,
       "value": "\"cer\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18496,
+      "offset": 18552,
       "length": 28,
       "value": "\"^https:\/\/.*\\.leap\\.is.*$\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18577,
+      "offset": 18633,
       "length": 11,
       "value": "\"#5532FFFF\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18636,
+      "offset": 18692,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18667,
+      "offset": 18723,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18697,
+      "offset": 18753,
       "length": 5,
       "value": "\"PUT\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18729,
+      "offset": 18785,
       "length": 7,
       "value": "\"PATCH\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18764,
+      "offset": 18820,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18833,
+      "offset": 18889,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18893,
+      "offset": 18949,
       "length": 17,
       "value": "\"CFBundleVersion\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/LeapConstants.swift",
       "kind": "StringLiteral",
-      "offset": 18939,
+      "offset": 18995,
       "length": 14,
       "value": "\"CFBundleName\""
     },
@@ -8694,35 +8849,35 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapArrowButton.swift",
       "kind": "IntegerLiteral",
-      "offset": 473,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapArrowButton.swift",
-      "kind": "IntegerLiteral",
-      "offset": 693,
+      "offset": 832,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapArrowButton.swift",
       "kind": "IntegerLiteral",
-      "offset": 897,
+      "offset": 927,
       "length": 1,
-      "value": "1"
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapArrowButton.swift",
+      "kind": "StringLiteral",
+      "offset": 264,
+      "length": 15,
+      "value": "\"LeapSDK.LeapArrowButton\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapKeyWindowAssist\/LeapKeyWindowComponents\/LeapFullScreen\/LeapFullScreen.swift",
       "kind": "IntegerLiteral",
-      "offset": 2045,
+      "offset": 2132,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapKeyWindowAssist\/LeapKeyWindowAssist.swift",
       "kind": "Dictionary",
-      "offset": 2195,
+      "offset": 2250,
       "length": 3,
       "value": "[]"
     },
@@ -8771,30 +8926,9 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 730,
+      "offset": 864,
       "length": 1,
       "value": "0"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 13941,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 13965,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIManager.swift",
-      "kind": "Dictionary",
-      "offset": 42573,
-      "length": 3,
-      "value": "[]"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapIconSetting.swift",
@@ -8876,7 +9010,7 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapKeyWindowAssist\/LeapKeyWindowComponents\/LeapCarousel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3114,
+      "offset": 3291,
       "length": 1,
       "value": "0"
     },
@@ -8930,2125 +9064,74 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsGateway.swift",
       "kind": "StringLiteral",
-      "offset": 260,
-      "length": 15,
-      "value": "\"public_method\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 295,
-      "length": 9,
-      "value": "\"network\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 326,
-      "length": 11,
-      "value": "\"lifecycle\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 356,
-      "length": 8,
-      "value": "\"finder\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 383,
-      "length": 8,
-      "value": "\"action\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 410,
-      "length": 8,
-      "value": "\"render\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 440,
-      "length": 11,
-      "value": "\"EXCEPTION\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 482,
-      "length": 20,
-      "value": "\"device_orientation\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 260,
-      "length": 15,
-      "value": "\"public_method\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 295,
-      "length": 9,
-      "value": "\"network\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 326,
-      "length": 11,
-      "value": "\"lifecycle\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 356,
-      "length": 8,
-      "value": "\"finder\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 383,
-      "length": 8,
-      "value": "\"action\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 410,
-      "length": 8,
-      "value": "\"render\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 440,
-      "length": 11,
-      "value": "\"EXCEPTION\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 482,
-      "length": 20,
-      "value": "\"device_orientation\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 565,
-      "length": 10,
-      "value": "\"leap_sdk\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 602,
-      "length": 18,
-      "value": "\"leap_creator_sdk\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 644,
-      "length": 15,
-      "value": "\"leap_core_sdk\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 565,
-      "length": 10,
-      "value": "\"leap_sdk\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 602,
-      "length": 18,
-      "value": "\"leap_creator_sdk\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 644,
-      "length": 15,
-      "value": "\"leap_core_sdk\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "IntegerLiteral",
-      "offset": 717,
-      "length": 3,
-      "value": "100"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "IntegerLiteral",
-      "offset": 742,
-      "length": 3,
-      "value": "600"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "IntegerLiteral",
-      "offset": 768,
-      "length": 3,
-      "value": "200"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "IntegerLiteral",
-      "offset": 794,
-      "length": 3,
-      "value": "500"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "IntegerLiteral",
-      "offset": 717,
-      "length": 3,
-      "value": "100"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "IntegerLiteral",
-      "offset": 742,
-      "length": 3,
-      "value": "600"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "IntegerLiteral",
-      "offset": 768,
-      "length": 3,
-      "value": "200"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "IntegerLiteral",
-      "offset": 794,
-      "length": 3,
-      "value": "500"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "IntegerLiteral",
-      "offset": 717,
-      "length": 3,
-      "value": "100"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "IntegerLiteral",
-      "offset": 742,
-      "length": 3,
-      "value": "600"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "IntegerLiteral",
-      "offset": 768,
-      "length": 3,
-      "value": "200"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "IntegerLiteral",
-      "offset": 794,
-      "length": 3,
-      "value": "500"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2168,
-      "length": 19,
-      "value": "\"string.session_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2215,
-      "length": 21,
-      "value": "\"string.version_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2264,
-      "length": 21,
-      "value": "\"string.version_code\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2316,
-      "length": 25,
-      "value": "\"string.sdk_version_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2372,
-      "length": 22,
-      "value": "\"int.sdk_version_code\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2417,
-      "length": 15,
-      "value": "\"string.device\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2458,
-      "length": 19,
-      "value": "\"string.os_version\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2499,
-      "length": 14,
-      "value": "\"string.model\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2542,
-      "length": 21,
-      "value": "\"string.manufacturer\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2589,
-      "length": 19,
-      "value": "\"string.created_at\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2634,
-      "length": 16,
-      "value": "\"long.timestamp\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2691,
-      "length": 32,
-      "value": "\"int.detailed_analytics_version\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2746,
-      "length": 16,
-      "value": "\"string.leap_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2790,
-      "length": 18,
-      "value": "\"int.device_width\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2837,
-      "length": 19,
-      "value": "\"int.device_height\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2168,
-      "length": 19,
-      "value": "\"string.session_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2215,
-      "length": 21,
-      "value": "\"string.version_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2264,
-      "length": 21,
-      "value": "\"string.version_code\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2316,
-      "length": 25,
-      "value": "\"string.sdk_version_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2372,
-      "length": 22,
-      "value": "\"int.sdk_version_code\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2417,
-      "length": 15,
-      "value": "\"string.device\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2458,
-      "length": 19,
-      "value": "\"string.os_version\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2499,
-      "length": 14,
-      "value": "\"string.model\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2542,
-      "length": 21,
-      "value": "\"string.manufacturer\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2589,
-      "length": 19,
-      "value": "\"string.created_at\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2634,
-      "length": 16,
-      "value": "\"long.timestamp\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2691,
-      "length": 32,
-      "value": "\"int.detailed_analytics_version\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2746,
-      "length": 16,
-      "value": "\"string.leap_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2790,
-      "length": 18,
-      "value": "\"int.device_width\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2837,
-      "length": 19,
-      "value": "\"int.device_height\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 8817,
-      "length": 17,
-      "value": "\"string.category\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 8860,
-      "length": 19,
-      "value": "\"string.event_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 8903,
-      "length": 17,
-      "value": "\"string.sdk_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 8943,
-      "length": 16,
-      "value": "\"string.api_key\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 8988,
-      "length": 23,
-      "value": "\"string.unique_user_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9037,
-      "length": 19,
-      "value": "\"string.app_locale\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9089,
-      "length": 27,
-      "value": "\"string.user_property_keys\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9142,
-      "length": 19,
-      "value": "\"string.project_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9189,
-      "length": 21,
-      "value": "\"string.project_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9247,
-      "length": 31,
-      "value": "\"string.selected_project_label\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9307,
-      "length": 22,
-      "value": "\"string.deployment_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9373,
+      "offset": 449,
       "length": 39,
-      "value": "\"string.selected_project_deployment_id\""
+      "value": "\"Leap Detailed Analytics Methods Queue\""
     },
     {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9446,
-      "length": 24,
-      "value": "\"int.deployment_version\""
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsGateway.swift",
+      "kind": "IntegerLiteral",
+      "offset": 535,
+      "length": 1,
+      "value": "1"
     },
     {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsGateway.swift",
       "kind": "StringLiteral",
-      "offset": 9494,
-      "length": 16,
-      "value": "\"string.element\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9531,
+      "offset": 905,
       "length": 13,
-      "value": "\"string.type\""
+      "value": "\"isExecuting\""
     },
     {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9571,
-      "length": 20,
-      "value": "\"string.action_type\""
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsGateway.swift",
+      "kind": "BooleanLiteral",
+      "offset": 766,
+      "length": 5,
+      "value": "false"
     },
     {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsGateway.swift",
       "kind": "StringLiteral",
-      "offset": 9619,
-      "length": 21,
-      "value": "\"string.project_type\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9665,
-      "length": 18,
-      "value": "\"string.page_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9706,
-      "length": 13,
-      "value": "\"int.page_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9748,
-      "length": 23,
-      "value": "\"string.page_unique_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9796,
-      "length": 18,
-      "value": "\"string.step_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9837,
-      "length": 13,
-      "value": "\"int.step_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9879,
-      "length": 23,
-      "value": "\"string.step_unique_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9933,
-      "length": 24,
-      "value": "\"string.arrow_direction\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9988,
-      "length": 24,
-      "value": "\"string.swipe_direction\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10043,
-      "length": 25,
-      "value": "\"string.current_slide_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10102,
-      "length": 25,
-      "value": "\"int.current_slide_index\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10151,
-      "length": 17,
-      "value": "\"string.slide_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10195,
-      "length": 17,
-      "value": "\"int.slide_index\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10244,
-      "length": 26,
-      "value": "\"string.previous_slide_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10305,
-      "length": 26,
-      "value": "\"int.previous_slide_index\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10358,
-      "length": 20,
-      "value": "\"string.button_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10406,
-      "length": 21,
-      "value": "\"string.button_state\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10456,
-      "length": 22,
-      "value": "\"string.reset_project\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10498,
+      "offset": 1181,
       "length": 12,
-      "value": "\"string.url\""
+      "value": "\"isFinished\""
     },
     {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10538,
-      "length": 21,
-      "value": "\"string.external_url\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10584,
-      "length": 18,
-      "value": "\"string.deep_link\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10625,
-      "length": 15,
-      "value": "\"string.status\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10667,
-      "length": 17,
-      "value": "\"int.status_code\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10716,
-      "length": 25,
-      "value": "\"string.response_message\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10767,
-      "length": 16,
-      "value": "\"int.time_taken\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10819,
-      "length": 29,
-      "value": "\"string.previous_orientation\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10883,
-      "length": 28,
-      "value": "\"string.current_orientation\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10940,
-      "length": 22,
-      "value": "\"string.identifier_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10984,
-      "length": 15,
-      "value": "\"string.acc_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11024,
-      "length": 18,
-      "value": "\"string.acc_label\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11062,
-      "length": 12,
-      "value": "\"string.tag\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11100,
-      "length": 19,
-      "value": "\"string.class_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11150,
-      "length": 24,
-      "value": "\"string.controller_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11195,
-      "length": 13,
-      "value": "\"string.text\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11234,
-      "length": 19,
-      "value": "\"string.is_focused\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11280,
-      "length": 20,
-      "value": "\"string.is_selected\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11326,
-      "length": 19,
-      "value": "\"string.is_enabled\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11366,
-      "length": 13,
-      "value": "\"string.code\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11402,
-      "length": 16,
-      "value": "\"string.file_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11444,
-      "length": 19,
-      "value": "\"string.preview_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11493,
-      "length": 20,
-      "value": "\"int.element_bottom\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11541,
-      "length": 18,
-      "value": "\"int.element_left\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11588,
-      "length": 19,
-      "value": "\"int.element_right\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11634,
-      "length": 17,
-      "value": "\"int.element_top\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11677,
-      "length": 16,
-      "value": "\"int.page_width\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11720,
-      "length": 17,
-      "value": "\"int.page_height\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 8817,
-      "length": 17,
-      "value": "\"string.category\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 8860,
-      "length": 19,
-      "value": "\"string.event_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 8903,
-      "length": 17,
-      "value": "\"string.sdk_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 8943,
-      "length": 16,
-      "value": "\"string.api_key\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 8988,
-      "length": 23,
-      "value": "\"string.unique_user_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9037,
-      "length": 19,
-      "value": "\"string.app_locale\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9089,
-      "length": 27,
-      "value": "\"string.user_property_keys\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9142,
-      "length": 19,
-      "value": "\"string.project_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9189,
-      "length": 21,
-      "value": "\"string.project_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9247,
-      "length": 31,
-      "value": "\"string.selected_project_label\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9307,
-      "length": 22,
-      "value": "\"string.deployment_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9373,
-      "length": 39,
-      "value": "\"string.selected_project_deployment_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9446,
-      "length": 24,
-      "value": "\"int.deployment_version\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9494,
-      "length": 16,
-      "value": "\"string.element\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9531,
-      "length": 13,
-      "value": "\"string.type\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9571,
-      "length": 20,
-      "value": "\"string.action_type\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9619,
-      "length": 21,
-      "value": "\"string.project_type\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9665,
-      "length": 18,
-      "value": "\"string.page_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9706,
-      "length": 13,
-      "value": "\"int.page_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9748,
-      "length": 23,
-      "value": "\"string.page_unique_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9796,
-      "length": 18,
-      "value": "\"string.step_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9837,
-      "length": 13,
-      "value": "\"int.step_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9879,
-      "length": 23,
-      "value": "\"string.step_unique_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9933,
-      "length": 24,
-      "value": "\"string.arrow_direction\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 9988,
-      "length": 24,
-      "value": "\"string.swipe_direction\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10043,
-      "length": 25,
-      "value": "\"string.current_slide_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10102,
-      "length": 25,
-      "value": "\"int.current_slide_index\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10151,
-      "length": 17,
-      "value": "\"string.slide_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10195,
-      "length": 17,
-      "value": "\"int.slide_index\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10244,
-      "length": 26,
-      "value": "\"string.previous_slide_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10305,
-      "length": 26,
-      "value": "\"int.previous_slide_index\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10358,
-      "length": 20,
-      "value": "\"string.button_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10406,
-      "length": 21,
-      "value": "\"string.button_state\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10456,
-      "length": 22,
-      "value": "\"string.reset_project\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10498,
-      "length": 12,
-      "value": "\"string.url\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10538,
-      "length": 21,
-      "value": "\"string.external_url\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10584,
-      "length": 18,
-      "value": "\"string.deep_link\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10625,
-      "length": 15,
-      "value": "\"string.status\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10667,
-      "length": 17,
-      "value": "\"int.status_code\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10716,
-      "length": 25,
-      "value": "\"string.response_message\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10767,
-      "length": 16,
-      "value": "\"int.time_taken\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10819,
-      "length": 29,
-      "value": "\"string.previous_orientation\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10883,
-      "length": 28,
-      "value": "\"string.current_orientation\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10940,
-      "length": 22,
-      "value": "\"string.identifier_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 10984,
-      "length": 15,
-      "value": "\"string.acc_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11024,
-      "length": 18,
-      "value": "\"string.acc_label\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11062,
-      "length": 12,
-      "value": "\"string.tag\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11100,
-      "length": 19,
-      "value": "\"string.class_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11150,
-      "length": 24,
-      "value": "\"string.controller_name\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11195,
-      "length": 13,
-      "value": "\"string.text\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11234,
-      "length": 19,
-      "value": "\"string.is_focused\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11280,
-      "length": 20,
-      "value": "\"string.is_selected\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11326,
-      "length": 19,
-      "value": "\"string.is_enabled\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11366,
-      "length": 13,
-      "value": "\"string.code\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11402,
-      "length": 16,
-      "value": "\"string.file_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11444,
-      "length": 19,
-      "value": "\"string.preview_id\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11493,
-      "length": 20,
-      "value": "\"int.element_bottom\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11541,
-      "length": 18,
-      "value": "\"int.element_left\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11588,
-      "length": 19,
-      "value": "\"int.element_right\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11634,
-      "length": 17,
-      "value": "\"int.element_top\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11677,
-      "length": 16,
-      "value": "\"int.page_width\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 11720,
-      "length": 17,
-      "value": "\"int.page_height\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 2872,
-      "length": 26,
-      "value": "\"LeapSDK.LeapDetailedAnalyticsEvent\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 24785,
-      "length": 24,
-      "value": "\"analytics_notification\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 24836,
-      "length": 8,
-      "value": "\"MOBILE\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 24869,
-      "length": 17,
-      "value": "\"MOBILE_SDK_LOGS\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 24917,
-      "length": 7,
-      "value": "\"APPLE\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 24978,
-      "length": 14,
-      "value": "\"button_click\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25023,
-      "length": 15,
-      "value": "\"outside_click\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25069,
-      "length": 15,
-      "value": "\"flow_selected\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25127,
-      "length": 8,
-      "value": "\"button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25165,
-      "length": 14,
-      "value": "\"close-button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25203,
-      "length": 7,
-      "value": "\"swipe\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25234,
-      "length": 7,
-      "value": "\"arrow\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25271,
-      "length": 14,
-      "value": "\"first_render\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25311,
-      "length": 9,
-      "value": "\"forward\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25347,
-      "length": 10,
-      "value": "\"backward\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25403,
-      "length": 7,
-      "value": "\"right\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25433,
-      "length": 6,
-      "value": "\"left\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25488,
-      "length": 16,
-      "value": "\"language_panel\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25540,
-      "length": 10,
-      "value": "\"BOTTOMUP\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25581,
-      "length": 10,
-      "value": "\"CAROUSEL\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25636,
-      "length": 7,
-      "value": "\"start\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25666,
-      "length": 6,
-      "value": "\"step\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25735,
-      "length": 30,
-      "value": "\"enable_log_toast_okay_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25806,
-      "length": 37,
-      "value": "\"enable_LOGS.rawValue,_toggle_switch\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25877,
-      "length": 29,
-      "value": "\"share_LOGS.rawValue,_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25941,
-      "length": 20,
-      "value": "\"drawer_back_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 25991,
-      "length": 14,
-      "value": "\"setup_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 26038,
-      "length": 18,
-      "value": "\"user_data_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 26092,
-      "length": 21,
-      "value": "\"share_report_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 26152,
-      "length": 24,
-      "value": "\"user_properties_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 26218,
-      "length": 27,
-      "value": "\"project_attributes_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 26288,
-      "length": 29,
-      "value": "\"user_properties_back_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 26363,
-      "length": 32,
-      "value": "\"user_properties_default_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 26440,
-      "length": 31,
-      "value": "\"user_properties_custom_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 26517,
-      "length": 32,
-      "value": "\"project_attributes_back_button\""
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsGateway.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1043,
+      "length": 5,
+      "value": "false"
     },
     {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsGateway.swift",
       "kind": "StringLiteral",
-      "offset": 26598,
+      "offset": 1463,
       "length": 35,
-      "value": "\"project_attributes_project_button\""
+      "value": "\"LeapSDK.LeapDetailedAnalyticsEventOperation\""
     },
     {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsGateway.swift",
       "kind": "StringLiteral",
-      "offset": 26690,
-      "length": 45,
-      "value": "\"project_attributes_project_page_back_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 26771,
-      "length": 21,
-      "value": "\"drawer_close_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 26830,
-      "length": 23,
-      "value": "\"screen_capture_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 26892,
-      "length": 24,
-      "value": "\"preview_project_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 26955,
-      "length": 24,
-      "value": "\"debugging_tools_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 27024,
-      "length": 42,
-      "value": "\"share_LOGS.rawValue,_dialog_share_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 27127,
-      "length": 50,
-      "value": "\"logs_shared_successfully_dialog_copy_code_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 27236,
-      "length": 47,
-      "value": "\"logs_shared_successfully_dialog_cancel_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 27329,
-      "length": 43,
-      "value": "\"share_LOGS.rawValue,_dialog_cancel_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 27409,
-      "length": 23,
-      "value": "\"creator_wfx_home_icon\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 27480,
-      "length": 36,
-      "value": "\"creator_wfx_home_icon_live_logging\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 27552,
-      "length": 21,
-      "value": "\"creator_camera_icon\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 27610,
-      "length": 22,
-      "value": "\"creator_preview_icon\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 27669,
-      "length": 22,
-      "value": "\"creator_dismiss_icon\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 27741,
-      "length": 37,
-      "value": "\"screen_capture_failure_retry_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 27829,
-      "length": 38,
-      "value": "\"screen_capture_failure_cancel_button\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 27917,
-      "length": 16,
-      "value": "\"on_sdk_started\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 27975,
-      "length": 29,
-      "value": "\"on_sdk_started_with_builder\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 28049,
-      "length": 32,
-      "value": "\"on_sdk_started_with_properties\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 28120,
-      "length": 25,
-      "value": "\"on_embed_project_called\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 28184,
-      "length": 25,
-      "value": "\"on_start_project_called\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 28255,
-      "length": 33,
-      "value": "\"on_user_properties_flush_called\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 28327,
-      "length": 26,
-      "value": "\"on_set_app_locale_called\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 28386,
-      "length": 18,
-      "value": "\"on_logout_called\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 28446,
-      "length": 30,
-      "value": "\"on_set_unique_user_id_called\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 28518,
+      "offset": 6048,
       "length": 28,
-      "value": "\"on_config_download_started\""
+      "value": "\"leap_saved_detailed_events\""
     },
     {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsGateway.swift",
       "kind": "StringLiteral",
-      "offset": 28590,
-      "length": 30,
-      "value": "\"on_config_download_completed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 28661,
-      "length": 27,
-      "value": "\"on_asset_download_started\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 28731,
-      "length": 29,
-      "value": "\"on_asset_download_completed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 28801,
+      "offset": 6127,
       "length": 28,
-      "value": "\"on_log_file_upload_started\""
+      "value": "\"leap_flush_detailed_events\""
     },
     {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 28872,
-      "length": 30,
-      "value": "\"on_log_file_upload_completed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 28943,
-      "length": 27,
-      "value": "\"on_screen_capture_started\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29013,
-      "length": 29,
-      "value": "\"on_screen_capture_completed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29091,
-      "length": 36,
-      "value": "\"on_preview_config_download_started\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29178,
-      "length": 38,
-      "value": "\"on_preview_config_download_completed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29261,
-      "length": 31,
-      "value": "\"on_device_orientation_changed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29336,
-      "length": 30,
-      "value": "\"on_context_detection_started\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29410,
-      "length": 30,
-      "value": "\"on_context_detection_stopped\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29478,
-      "length": 23,
-      "value": "\"on_identifier_matched\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29542,
-      "length": 27,
-      "value": "\"on_identifier_not_matched\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29605,
-      "length": 21,
-      "value": "\"on_project_detected\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29664,
-      "length": 24,
-      "value": "\"on_no_project_detected\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29721,
-      "length": 18,
-      "value": "\"on_page_detected\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29774,
-      "length": 21,
-      "value": "\"on_no_page_detected\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29828,
-      "length": 18,
-      "value": "\"on_step_detected\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29881,
-      "length": 21,
-      "value": "\"on_no_step_detected\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 29944,
-      "length": 28,
-      "value": "\"on_button_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 30020,
-      "length": 35,
-      "value": "\"on_outside_click_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 30094,
-      "length": 25,
-      "value": "\"on_project_start_loaded\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 30157,
-      "length": 24,
-      "value": "\"on_project_step_loaded\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 30221,
-      "length": 26,
-      "value": "\"on_language_panel_loaded\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 30296,
-      "length": 36,
-      "value": "\"on_project_start_animation_started\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 30380,
-      "length": 35,
-      "value": "\"on_project_step_animation_started\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 30466,
-      "length": 38,
-      "value": "\"on_project_start_animation_completed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 30554,
-      "length": 37,
-      "value": "\"on_project_step_animation_completed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 30639,
-      "length": 35,
-      "value": "\"on_project_start_render_completed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 30721,
-      "length": 34,
-      "value": "\"on_project_step_render_completed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 30804,
-      "length": 36,
-      "value": "\"on_carousel_slide_render_completed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 30893,
-      "length": 42,
-      "value": "\"on_project_start_opt_in_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 30982,
-      "length": 34,
-      "value": "\"on_close_button_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 31071,
-      "length": 43,
-      "value": "\"on_project_start_dismiss_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 31168,
-      "length": 43,
-      "value": "\"on_project_step_end_flow_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 31262,
-      "length": 39,
-      "value": "\"on_project_step_next_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 31372,
-      "length": 61,
-      "value": "\"on_project_start_external_link_redirection_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 31500,
-      "length": 57,
-      "value": "\"on_project_start_deep_link_redirection_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 31627,
-      "length": 60,
-      "value": "\"on_project_step_external_link_redirection_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 31753,
-      "length": 56,
-      "value": "\"on_project_step_deep_link_redirection_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 31856,
-      "length": 34,
-      "value": "\"on_anchor_click_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 31940,
-      "length": 37,
-      "value": "\"on_project_success_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 32026,
-      "length": 36,
-      "value": "\"on_carousel_arrow_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 32111,
-      "length": 36,
-      "value": "\"on_carousel_swipe_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 32189,
-      "length": 28,
-      "value": "\"on_project_preview_started\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 32261,
-      "length": 30,
-      "value": "\"on_project_preview_cancelled\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 32343,
-      "length": 39,
-      "value": "\"on_project_selection_action_performed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 32432,
-      "length": 37,
-      "value": "\"on_language_panel_animation_started\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 32521,
-      "length": 39,
-      "value": "\"on_language_panel_animation_completed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 32609,
-      "length": 36,
-      "value": "\"on_language_panel_render_completed\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 32679,
-      "length": 20,
-      "value": "\"on_view_did_appear\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
-      "kind": "StringLiteral",
-      "offset": 32736,
-      "length": 23,
-      "value": "\"on_view_did_disappear\""
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsGateway.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6195,
+      "length": 2,
+      "value": "50"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
@@ -11116,56 +9199,49 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
       "kind": "StringLiteral",
-      "offset": 4679,
+      "offset": 4482,
       "length": 18,
       "value": "\"LeapSDK.LeapStartOperation\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
       "kind": "StringLiteral",
-      "offset": 6661,
-      "length": 18,
-      "value": "\"LeapSDK.LeapFlushOperation\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
-      "kind": "StringLiteral",
-      "offset": 7970,
+      "offset": 7361,
       "length": 34,
       "value": "\"LeapSDK.LeapStartWithAPIKeyPublicOperation\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
       "kind": "StringLiteral",
-      "offset": 8604,
+      "offset": 7995,
       "length": 20,
       "value": "\"LeapSDK.LeapSetUserOperation\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
       "kind": "StringLiteral",
-      "offset": 9459,
+      "offset": 8850,
       "length": 22,
       "value": "\"LeapSDK.LeapAppLocaleOperation\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
       "kind": "BooleanLiteral",
-      "offset": 10482,
+      "offset": 9873,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
       "kind": "StringLiteral",
-      "offset": 10292,
+      "offset": 9683,
       "length": 25,
       "value": "\"LeapSDK.LeapStartProjectOperation\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapPublicMethodsOperationQueue.swift",
       "kind": "StringLiteral",
-      "offset": 11984,
+      "offset": 11375,
       "length": 24,
       "value": "\"LeapSDK.LeapOfflineSyncOperation\""
     },
@@ -11177,6 +9253,69 @@
       "value": "\"LeapSDK.LeapTappable\""
     },
     {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 301,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1627,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconButton.swift",
+      "kind": "StringLiteral",
+      "offset": 183,
+      "length": 14,
+      "value": "\"LeapSDK.LeapIconButton\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconDragCloseView.swift",
+      "kind": "StringLiteral",
+      "offset": 369,
+      "length": 11,
+      "value": "\"#99090909\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconDragCloseView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 528,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconDragCloseView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 534,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconDragCloseView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 581,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconDragCloseView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 587,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapButton\/LeapIconDragCloseView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 799,
+      "length": 2,
+      "value": "50"
+    },
+    {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapAssistInfo.swift",
       "kind": "BooleanLiteral",
       "offset": 540,
@@ -11186,77 +9325,77 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5357,
+      "offset": 5165,
       "length": 25,
       "value": "\"yyyy-MM-dd HH:mm:ss.SSS\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6716,
+      "offset": 6524,
       "length": 25,
       "value": "\"yyyy-MM-dd HH:mm:ss.SSS\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8170,
+      "offset": 8244,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 8262,
+      "offset": 8336,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8544,
+      "offset": 8618,
       "length": 6,
       "value": "\"i386\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8552,
+      "offset": 8626,
       "length": 8,
       "value": "\"x86_64\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8562,
+      "offset": 8636,
       "length": 7,
       "value": "\"arm64\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8594,
+      "offset": 8668,
       "length": 104,
       "value": "\"Simulator \""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8657,
+      "offset": 8731,
       "length": 28,
       "value": "\"SIMULATOR_MODEL_IDENTIFIER\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8690,
+      "offset": 8764,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8697,
+      "offset": 8771,
       "length": 1,
       "value": "\"\""
     },
@@ -11299,90 +9438,90 @@
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapLoggerConfig.swift",
       "kind": "Array",
       "offset": 426,
-      "length": 5,
-      "value": "[600]"
+      "length": 10,
+      "value": "[500, 600]"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapLoggerConfig.swift",
       "kind": "StringLiteral",
-      "offset": 507,
+      "offset": 512,
       "length": 16,
       "value": "\"logger_enabled\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapLoggerConfig.swift",
       "kind": "StringLiteral",
-      "offset": 563,
+      "offset": 568,
       "length": 29,
       "value": "\"auto_disable_period_in_mins\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapLoggerConfig.swift",
       "kind": "StringLiteral",
-      "offset": 634,
+      "offset": 639,
       "length": 30,
       "value": "\"server_logger_flush_interval\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapLoggerConfig.swift",
       "kind": "StringLiteral",
-      "offset": 700,
+      "offset": 705,
       "length": 24,
       "value": "\"server_logger_max_logs\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapLoggerConfig.swift",
       "kind": "StringLiteral",
-      "offset": 766,
+      "offset": 771,
       "length": 30,
       "value": "\"server_logger_perf_threshold\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapLoggerConfig.swift",
       "kind": "StringLiteral",
-      "offset": 821,
+      "offset": 826,
       "length": 11,
       "value": "\"log_types\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapLoggerConfig.swift",
       "kind": "StringLiteral",
-      "offset": 507,
+      "offset": 512,
       "length": 16,
       "value": "\"logger_enabled\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapLoggerConfig.swift",
       "kind": "StringLiteral",
-      "offset": 563,
+      "offset": 568,
       "length": 29,
       "value": "\"auto_disable_period_in_mins\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapLoggerConfig.swift",
       "kind": "StringLiteral",
-      "offset": 634,
+      "offset": 639,
       "length": 30,
       "value": "\"server_logger_flush_interval\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapLoggerConfig.swift",
       "kind": "StringLiteral",
-      "offset": 700,
+      "offset": 705,
       "length": 24,
       "value": "\"server_logger_max_logs\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapLoggerConfig.swift",
       "kind": "StringLiteral",
-      "offset": 766,
+      "offset": 771,
       "length": 30,
       "value": "\"server_logger_perf_threshold\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapLoggerConfig.swift",
       "kind": "StringLiteral",
-      "offset": 821,
+      "offset": 826,
       "length": 11,
       "value": "\"log_types\""
     },
@@ -11679,6 +9818,2127 @@
       "offset": 3543,
       "length": 10,
       "value": "\"zoom_out\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 260,
+      "length": 15,
+      "value": "\"public_method\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 295,
+      "length": 9,
+      "value": "\"network\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 326,
+      "length": 11,
+      "value": "\"lifecycle\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 356,
+      "length": 8,
+      "value": "\"finder\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 383,
+      "length": 8,
+      "value": "\"action\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 410,
+      "length": 8,
+      "value": "\"render\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 440,
+      "length": 11,
+      "value": "\"EXCEPTION\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 482,
+      "length": 20,
+      "value": "\"device_orientation\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 260,
+      "length": 15,
+      "value": "\"public_method\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 295,
+      "length": 9,
+      "value": "\"network\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 326,
+      "length": 11,
+      "value": "\"lifecycle\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 356,
+      "length": 8,
+      "value": "\"finder\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 383,
+      "length": 8,
+      "value": "\"action\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 410,
+      "length": 8,
+      "value": "\"render\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 440,
+      "length": 11,
+      "value": "\"EXCEPTION\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 482,
+      "length": 20,
+      "value": "\"device_orientation\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 565,
+      "length": 10,
+      "value": "\"leap_sdk\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 602,
+      "length": 18,
+      "value": "\"leap_creator_sdk\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 644,
+      "length": 15,
+      "value": "\"leap_core_sdk\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 565,
+      "length": 10,
+      "value": "\"leap_sdk\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 602,
+      "length": 18,
+      "value": "\"leap_creator_sdk\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 644,
+      "length": 15,
+      "value": "\"leap_core_sdk\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 717,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 742,
+      "length": 3,
+      "value": "600"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 768,
+      "length": 3,
+      "value": "200"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 794,
+      "length": 3,
+      "value": "500"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 717,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 742,
+      "length": 3,
+      "value": "600"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 768,
+      "length": 3,
+      "value": "200"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 794,
+      "length": 3,
+      "value": "500"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 717,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 742,
+      "length": 3,
+      "value": "600"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 768,
+      "length": 3,
+      "value": "200"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 794,
+      "length": 3,
+      "value": "500"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 2915,
+      "length": 19,
+      "value": "\"string.session_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 2962,
+      "length": 21,
+      "value": "\"string.version_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3011,
+      "length": 21,
+      "value": "\"string.version_code\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3063,
+      "length": 25,
+      "value": "\"string.sdk_version_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3119,
+      "length": 22,
+      "value": "\"int.sdk_version_code\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3164,
+      "length": 15,
+      "value": "\"string.device\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3205,
+      "length": 19,
+      "value": "\"string.os_version\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3246,
+      "length": 14,
+      "value": "\"string.model\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3289,
+      "length": 21,
+      "value": "\"string.manufacturer\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3336,
+      "length": 19,
+      "value": "\"string.created_at\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3381,
+      "length": 16,
+      "value": "\"long.timestamp\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3438,
+      "length": 32,
+      "value": "\"int.detailed_analytics_version\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3493,
+      "length": 16,
+      "value": "\"string.leap_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3537,
+      "length": 18,
+      "value": "\"int.device_width\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3584,
+      "length": 19,
+      "value": "\"int.device_height\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 2915,
+      "length": 19,
+      "value": "\"string.session_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 2962,
+      "length": 21,
+      "value": "\"string.version_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3011,
+      "length": 21,
+      "value": "\"string.version_code\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3063,
+      "length": 25,
+      "value": "\"string.sdk_version_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3119,
+      "length": 22,
+      "value": "\"int.sdk_version_code\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3164,
+      "length": 15,
+      "value": "\"string.device\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3205,
+      "length": 19,
+      "value": "\"string.os_version\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3246,
+      "length": 14,
+      "value": "\"string.model\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3289,
+      "length": 21,
+      "value": "\"string.manufacturer\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3336,
+      "length": 19,
+      "value": "\"string.created_at\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3381,
+      "length": 16,
+      "value": "\"long.timestamp\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3438,
+      "length": 32,
+      "value": "\"int.detailed_analytics_version\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3493,
+      "length": 16,
+      "value": "\"string.leap_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3537,
+      "length": 18,
+      "value": "\"int.device_width\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3584,
+      "length": 19,
+      "value": "\"int.device_height\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9564,
+      "length": 17,
+      "value": "\"string.category\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9607,
+      "length": 19,
+      "value": "\"string.event_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9650,
+      "length": 17,
+      "value": "\"string.sdk_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9690,
+      "length": 16,
+      "value": "\"string.api_key\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9735,
+      "length": 23,
+      "value": "\"string.unique_user_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9784,
+      "length": 19,
+      "value": "\"string.app_locale\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9836,
+      "length": 27,
+      "value": "\"string.user_property_keys\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9889,
+      "length": 19,
+      "value": "\"string.project_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9936,
+      "length": 21,
+      "value": "\"string.project_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9994,
+      "length": 31,
+      "value": "\"string.selected_project_label\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10054,
+      "length": 22,
+      "value": "\"string.deployment_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10120,
+      "length": 39,
+      "value": "\"string.selected_project_deployment_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10193,
+      "length": 24,
+      "value": "\"int.deployment_version\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10241,
+      "length": 16,
+      "value": "\"string.element\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10278,
+      "length": 13,
+      "value": "\"string.type\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10318,
+      "length": 20,
+      "value": "\"string.action_type\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10366,
+      "length": 21,
+      "value": "\"string.project_type\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10412,
+      "length": 18,
+      "value": "\"string.page_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10453,
+      "length": 13,
+      "value": "\"int.page_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10495,
+      "length": 23,
+      "value": "\"string.page_unique_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10543,
+      "length": 18,
+      "value": "\"string.step_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10584,
+      "length": 13,
+      "value": "\"int.step_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10626,
+      "length": 23,
+      "value": "\"string.step_unique_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10680,
+      "length": 24,
+      "value": "\"string.arrow_direction\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10735,
+      "length": 24,
+      "value": "\"string.swipe_direction\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10790,
+      "length": 25,
+      "value": "\"string.current_slide_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10849,
+      "length": 25,
+      "value": "\"int.current_slide_index\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10898,
+      "length": 17,
+      "value": "\"string.slide_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10942,
+      "length": 17,
+      "value": "\"int.slide_index\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10991,
+      "length": 26,
+      "value": "\"string.previous_slide_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11052,
+      "length": 26,
+      "value": "\"int.previous_slide_index\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11105,
+      "length": 20,
+      "value": "\"string.button_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11153,
+      "length": 21,
+      "value": "\"string.button_state\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11203,
+      "length": 22,
+      "value": "\"string.reset_project\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11245,
+      "length": 12,
+      "value": "\"string.url\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11285,
+      "length": 21,
+      "value": "\"string.external_url\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11331,
+      "length": 18,
+      "value": "\"string.deep_link\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11372,
+      "length": 15,
+      "value": "\"string.status\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11414,
+      "length": 17,
+      "value": "\"int.status_code\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11463,
+      "length": 25,
+      "value": "\"string.response_message\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11514,
+      "length": 16,
+      "value": "\"int.time_taken\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11566,
+      "length": 29,
+      "value": "\"string.previous_orientation\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11630,
+      "length": 28,
+      "value": "\"string.current_orientation\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11687,
+      "length": 22,
+      "value": "\"string.identifier_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11731,
+      "length": 15,
+      "value": "\"string.acc_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11771,
+      "length": 18,
+      "value": "\"string.acc_label\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11809,
+      "length": 12,
+      "value": "\"string.tag\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11847,
+      "length": 19,
+      "value": "\"string.class_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11897,
+      "length": 24,
+      "value": "\"string.controller_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11942,
+      "length": 13,
+      "value": "\"string.text\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11981,
+      "length": 19,
+      "value": "\"string.is_focused\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12027,
+      "length": 20,
+      "value": "\"string.is_selected\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12073,
+      "length": 19,
+      "value": "\"string.is_enabled\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12113,
+      "length": 13,
+      "value": "\"string.code\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12149,
+      "length": 16,
+      "value": "\"string.file_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12191,
+      "length": 19,
+      "value": "\"string.preview_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12240,
+      "length": 20,
+      "value": "\"int.element_bottom\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12288,
+      "length": 18,
+      "value": "\"int.element_left\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12335,
+      "length": 19,
+      "value": "\"int.element_right\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12381,
+      "length": 17,
+      "value": "\"int.element_top\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12424,
+      "length": 16,
+      "value": "\"int.page_width\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12467,
+      "length": 17,
+      "value": "\"int.page_height\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9564,
+      "length": 17,
+      "value": "\"string.category\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9607,
+      "length": 19,
+      "value": "\"string.event_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9650,
+      "length": 17,
+      "value": "\"string.sdk_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9690,
+      "length": 16,
+      "value": "\"string.api_key\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9735,
+      "length": 23,
+      "value": "\"string.unique_user_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9784,
+      "length": 19,
+      "value": "\"string.app_locale\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9836,
+      "length": 27,
+      "value": "\"string.user_property_keys\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9889,
+      "length": 19,
+      "value": "\"string.project_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9936,
+      "length": 21,
+      "value": "\"string.project_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 9994,
+      "length": 31,
+      "value": "\"string.selected_project_label\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10054,
+      "length": 22,
+      "value": "\"string.deployment_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10120,
+      "length": 39,
+      "value": "\"string.selected_project_deployment_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10193,
+      "length": 24,
+      "value": "\"int.deployment_version\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10241,
+      "length": 16,
+      "value": "\"string.element\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10278,
+      "length": 13,
+      "value": "\"string.type\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10318,
+      "length": 20,
+      "value": "\"string.action_type\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10366,
+      "length": 21,
+      "value": "\"string.project_type\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10412,
+      "length": 18,
+      "value": "\"string.page_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10453,
+      "length": 13,
+      "value": "\"int.page_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10495,
+      "length": 23,
+      "value": "\"string.page_unique_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10543,
+      "length": 18,
+      "value": "\"string.step_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10584,
+      "length": 13,
+      "value": "\"int.step_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10626,
+      "length": 23,
+      "value": "\"string.step_unique_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10680,
+      "length": 24,
+      "value": "\"string.arrow_direction\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10735,
+      "length": 24,
+      "value": "\"string.swipe_direction\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10790,
+      "length": 25,
+      "value": "\"string.current_slide_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10849,
+      "length": 25,
+      "value": "\"int.current_slide_index\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10898,
+      "length": 17,
+      "value": "\"string.slide_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10942,
+      "length": 17,
+      "value": "\"int.slide_index\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 10991,
+      "length": 26,
+      "value": "\"string.previous_slide_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11052,
+      "length": 26,
+      "value": "\"int.previous_slide_index\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11105,
+      "length": 20,
+      "value": "\"string.button_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11153,
+      "length": 21,
+      "value": "\"string.button_state\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11203,
+      "length": 22,
+      "value": "\"string.reset_project\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11245,
+      "length": 12,
+      "value": "\"string.url\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11285,
+      "length": 21,
+      "value": "\"string.external_url\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11331,
+      "length": 18,
+      "value": "\"string.deep_link\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11372,
+      "length": 15,
+      "value": "\"string.status\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11414,
+      "length": 17,
+      "value": "\"int.status_code\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11463,
+      "length": 25,
+      "value": "\"string.response_message\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11514,
+      "length": 16,
+      "value": "\"int.time_taken\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11566,
+      "length": 29,
+      "value": "\"string.previous_orientation\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11630,
+      "length": 28,
+      "value": "\"string.current_orientation\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11687,
+      "length": 22,
+      "value": "\"string.identifier_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11731,
+      "length": 15,
+      "value": "\"string.acc_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11771,
+      "length": 18,
+      "value": "\"string.acc_label\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11809,
+      "length": 12,
+      "value": "\"string.tag\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11847,
+      "length": 19,
+      "value": "\"string.class_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11897,
+      "length": 24,
+      "value": "\"string.controller_name\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11942,
+      "length": 13,
+      "value": "\"string.text\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 11981,
+      "length": 19,
+      "value": "\"string.is_focused\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12027,
+      "length": 20,
+      "value": "\"string.is_selected\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12073,
+      "length": 19,
+      "value": "\"string.is_enabled\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12113,
+      "length": 13,
+      "value": "\"string.code\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12149,
+      "length": 16,
+      "value": "\"string.file_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12191,
+      "length": 19,
+      "value": "\"string.preview_id\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12240,
+      "length": 20,
+      "value": "\"int.element_bottom\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12288,
+      "length": 18,
+      "value": "\"int.element_left\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12335,
+      "length": 19,
+      "value": "\"int.element_right\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12381,
+      "length": 17,
+      "value": "\"int.element_top\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12424,
+      "length": 16,
+      "value": "\"int.page_width\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 12467,
+      "length": 17,
+      "value": "\"int.page_height\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3619,
+      "length": 26,
+      "value": "\"LeapSDK.LeapDetailedAnalyticsEvent\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 25532,
+      "length": 24,
+      "value": "\"analytics_notification\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 25583,
+      "length": 8,
+      "value": "\"MOBILE\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 25616,
+      "length": 17,
+      "value": "\"MOBILE_SDK_LOGS\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 25664,
+      "length": 7,
+      "value": "\"APPLE\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 25725,
+      "length": 14,
+      "value": "\"button_click\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 25770,
+      "length": 15,
+      "value": "\"outside_click\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 25816,
+      "length": 15,
+      "value": "\"flow_selected\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 25874,
+      "length": 8,
+      "value": "\"button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 25912,
+      "length": 14,
+      "value": "\"close-button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 25950,
+      "length": 7,
+      "value": "\"swipe\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 25981,
+      "length": 7,
+      "value": "\"arrow\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26018,
+      "length": 14,
+      "value": "\"first_render\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26058,
+      "length": 9,
+      "value": "\"forward\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26094,
+      "length": 10,
+      "value": "\"backward\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26150,
+      "length": 7,
+      "value": "\"right\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26180,
+      "length": 6,
+      "value": "\"left\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26235,
+      "length": 16,
+      "value": "\"language_panel\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26287,
+      "length": 10,
+      "value": "\"BOTTOMUP\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26328,
+      "length": 10,
+      "value": "\"CAROUSEL\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26383,
+      "length": 7,
+      "value": "\"start\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26413,
+      "length": 6,
+      "value": "\"step\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26482,
+      "length": 30,
+      "value": "\"enable_log_toast_okay_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26553,
+      "length": 37,
+      "value": "\"enable_LOGS.rawValue,_toggle_switch\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26624,
+      "length": 29,
+      "value": "\"share_LOGS.rawValue,_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26688,
+      "length": 20,
+      "value": "\"drawer_back_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26738,
+      "length": 14,
+      "value": "\"setup_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26785,
+      "length": 18,
+      "value": "\"user_data_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26839,
+      "length": 21,
+      "value": "\"share_report_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26899,
+      "length": 24,
+      "value": "\"user_properties_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 26965,
+      "length": 27,
+      "value": "\"project_attributes_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 27035,
+      "length": 29,
+      "value": "\"user_properties_back_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 27110,
+      "length": 32,
+      "value": "\"user_properties_default_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 27187,
+      "length": 31,
+      "value": "\"user_properties_custom_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 27264,
+      "length": 32,
+      "value": "\"project_attributes_back_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 27345,
+      "length": 35,
+      "value": "\"project_attributes_project_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 27437,
+      "length": 45,
+      "value": "\"project_attributes_project_page_back_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 27518,
+      "length": 21,
+      "value": "\"drawer_close_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 27577,
+      "length": 23,
+      "value": "\"screen_capture_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 27639,
+      "length": 24,
+      "value": "\"preview_project_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 27702,
+      "length": 24,
+      "value": "\"debugging_tools_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 27771,
+      "length": 42,
+      "value": "\"share_LOGS.rawValue,_dialog_share_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 27874,
+      "length": 50,
+      "value": "\"logs_shared_successfully_dialog_copy_code_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 27983,
+      "length": 47,
+      "value": "\"logs_shared_successfully_dialog_cancel_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 28076,
+      "length": 43,
+      "value": "\"share_LOGS.rawValue,_dialog_cancel_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 28156,
+      "length": 23,
+      "value": "\"creator_wfx_home_icon\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 28227,
+      "length": 36,
+      "value": "\"creator_wfx_home_icon_live_logging\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 28299,
+      "length": 21,
+      "value": "\"creator_camera_icon\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 28357,
+      "length": 22,
+      "value": "\"creator_preview_icon\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 28416,
+      "length": 22,
+      "value": "\"creator_dismiss_icon\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 28488,
+      "length": 37,
+      "value": "\"screen_capture_failure_retry_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 28576,
+      "length": 38,
+      "value": "\"screen_capture_failure_cancel_button\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 28664,
+      "length": 16,
+      "value": "\"on_sdk_started\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 28722,
+      "length": 29,
+      "value": "\"on_sdk_started_with_builder\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 28796,
+      "length": 32,
+      "value": "\"on_sdk_started_with_properties\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 28867,
+      "length": 25,
+      "value": "\"on_embed_project_called\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 28931,
+      "length": 25,
+      "value": "\"on_start_project_called\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29002,
+      "length": 33,
+      "value": "\"on_user_properties_flush_called\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29074,
+      "length": 26,
+      "value": "\"on_set_app_locale_called\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29133,
+      "length": 18,
+      "value": "\"on_logout_called\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29193,
+      "length": 30,
+      "value": "\"on_set_unique_user_id_called\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29265,
+      "length": 28,
+      "value": "\"on_config_download_started\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29337,
+      "length": 30,
+      "value": "\"on_config_download_completed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29408,
+      "length": 27,
+      "value": "\"on_asset_download_started\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29478,
+      "length": 29,
+      "value": "\"on_asset_download_completed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29548,
+      "length": 28,
+      "value": "\"on_log_file_upload_started\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29619,
+      "length": 30,
+      "value": "\"on_log_file_upload_completed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29690,
+      "length": 27,
+      "value": "\"on_screen_capture_started\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29760,
+      "length": 29,
+      "value": "\"on_screen_capture_completed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29838,
+      "length": 36,
+      "value": "\"on_preview_config_download_started\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 29925,
+      "length": 38,
+      "value": "\"on_preview_config_download_completed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30008,
+      "length": 31,
+      "value": "\"on_device_orientation_changed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30083,
+      "length": 30,
+      "value": "\"on_context_detection_started\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30157,
+      "length": 30,
+      "value": "\"on_context_detection_stopped\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30225,
+      "length": 23,
+      "value": "\"on_identifier_matched\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30289,
+      "length": 27,
+      "value": "\"on_identifier_not_matched\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30352,
+      "length": 21,
+      "value": "\"on_project_detected\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30411,
+      "length": 24,
+      "value": "\"on_no_project_detected\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30468,
+      "length": 18,
+      "value": "\"on_page_detected\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30521,
+      "length": 21,
+      "value": "\"on_no_page_detected\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30575,
+      "length": 18,
+      "value": "\"on_step_detected\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30628,
+      "length": 21,
+      "value": "\"on_no_step_detected\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30691,
+      "length": 28,
+      "value": "\"on_button_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30767,
+      "length": 35,
+      "value": "\"on_outside_click_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30841,
+      "length": 25,
+      "value": "\"on_project_start_loaded\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30904,
+      "length": 24,
+      "value": "\"on_project_step_loaded\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 30968,
+      "length": 26,
+      "value": "\"on_language_panel_loaded\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 31043,
+      "length": 36,
+      "value": "\"on_project_start_animation_started\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 31127,
+      "length": 35,
+      "value": "\"on_project_step_animation_started\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 31213,
+      "length": 38,
+      "value": "\"on_project_start_animation_completed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 31301,
+      "length": 37,
+      "value": "\"on_project_step_animation_completed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 31386,
+      "length": 35,
+      "value": "\"on_project_start_render_completed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 31468,
+      "length": 34,
+      "value": "\"on_project_step_render_completed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 31551,
+      "length": 36,
+      "value": "\"on_carousel_slide_render_completed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 31640,
+      "length": 42,
+      "value": "\"on_project_start_opt_in_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 31729,
+      "length": 34,
+      "value": "\"on_close_button_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 31818,
+      "length": 43,
+      "value": "\"on_project_start_dismiss_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 31915,
+      "length": 43,
+      "value": "\"on_project_step_end_flow_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 32009,
+      "length": 39,
+      "value": "\"on_project_step_next_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 32119,
+      "length": 61,
+      "value": "\"on_project_start_external_link_redirection_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 32247,
+      "length": 57,
+      "value": "\"on_project_start_deep_link_redirection_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 32374,
+      "length": 60,
+      "value": "\"on_project_step_external_link_redirection_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 32500,
+      "length": 56,
+      "value": "\"on_project_step_deep_link_redirection_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 32603,
+      "length": 34,
+      "value": "\"on_anchor_click_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 32687,
+      "length": 37,
+      "value": "\"on_project_success_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 32773,
+      "length": 36,
+      "value": "\"on_carousel_arrow_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 32858,
+      "length": 36,
+      "value": "\"on_carousel_swipe_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 32936,
+      "length": 28,
+      "value": "\"on_project_preview_started\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 33008,
+      "length": 30,
+      "value": "\"on_project_preview_cancelled\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 33090,
+      "length": 39,
+      "value": "\"on_project_selection_action_performed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 33179,
+      "length": 37,
+      "value": "\"on_language_panel_animation_started\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 33268,
+      "length": 39,
+      "value": "\"on_language_panel_animation_completed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 33356,
+      "length": 36,
+      "value": "\"on_language_panel_render_completed\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 33426,
+      "length": 20,
+      "value": "\"on_view_did_appear\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Analytics\/LeapDetailedAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 33483,
+      "length": 23,
+      "value": "\"on_view_did_disappear\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapIconOptions\/LeapIconOptions.swift",
@@ -11690,21 +11950,21 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebAssist.swift",
       "kind": "BooleanLiteral",
-      "offset": 573,
+      "offset": 1042,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebAssist.swift",
       "kind": "BooleanLiteral",
-      "offset": 604,
+      "offset": 1073,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapInViewWebAssist\/LeapInViewWebAssist.swift",
       "kind": "StringLiteral",
-      "offset": 175,
+      "offset": 189,
       "length": 19,
       "value": "\"LeapSDK.LeapInViewWebAssist\""
     },
@@ -11725,56 +11985,56 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 10497,
+      "offset": 11530,
       "length": 12,
       "value": "\"SWIPE_LEFT\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 10532,
+      "offset": 11565,
       "length": 13,
       "value": "\"SWIPE_RIGHT\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 10565,
+      "offset": 11598,
       "length": 10,
       "value": "\"SWIPE_UP\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 10597,
+      "offset": 11630,
       "length": 12,
       "value": "\"SWIPE_DOWN\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 10497,
+      "offset": 11530,
       "length": 12,
       "value": "\"SWIPE_LEFT\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 10532,
+      "offset": 11565,
       "length": 13,
       "value": "\"SWIPE_RIGHT\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 10565,
+      "offset": 11598,
       "length": 10,
       "value": "\"SWIPE_UP\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapNativeAssist\/LeapInViewNativeAssist\/LeapInViewNativeComponents\/LeapPointer\/LeapPointer.swift",
       "kind": "StringLiteral",
-      "offset": 10597,
+      "offset": 11630,
       "length": 12,
       "value": "\"SWIPE_DOWN\""
     },
