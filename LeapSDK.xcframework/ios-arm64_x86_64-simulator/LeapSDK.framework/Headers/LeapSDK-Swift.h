@@ -301,6 +301,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 @protocol LeapCallback;
+@protocol LeapHierarchyCallback;
 @class NSString;
 @class NSDate;
 
@@ -311,6 +312,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Leap * _Nonn
 + (Leap * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 /// The callback object is a LeapCallback delegate object for clients to conform to their desired class/object and implement the delegate’s method/methods.
 @property (nonatomic, weak) id <LeapCallback> _Nullable callback;
+@property (nonatomic, weak) id <LeapHierarchyCallback> _Nullable hierarchyCallback;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 /// The method can be used to add properties, flush them and start the LeapSDK with an apiKey.
@@ -397,6 +399,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Leap * _Nonn
 - (void)disable;
 /// Clears all the cached info, removes all views, sends pending events and profile properties to backend.
 - (void)logout;
+- (void)receiveDataFromiOS;
 @end
 
 
@@ -409,6 +412,18 @@ SWIFT_PROTOCOL("_TtP7LeapSDK12LeapCallback_")
 /// \param eventInfo A dictionary of events that are generated based on user actions and navigations.
 ///
 - (void)eventNotificationWithEventInfo:(NSDictionary<NSString *, id> * _Nonnull)eventInfo;
+@end
+
+
+/// A callback protocol to let flutter SDK know what needs to sent to iOS.
+SWIFT_PROTOCOL("_TtP7LeapSDK21LeapHierarchyCallback_")
+@protocol LeapHierarchyCallback <NSObject>
+/// Callback method for flutter hierarchy that’s sent from flutter to iOS based on the instruction from iOS.
+/// \param message instruction from iOS to flutter.
+///
+/// \param hierarchy flutter hierarchy sent to iOS from flutter.
+///
+- (void)sendInstructionToFlutterWithMessage:(NSString * _Nonnull)message completion:(void (^ _Nonnull)(NSString * _Nonnull))completion;
 @end
 
 
@@ -790,6 +805,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 @protocol LeapCallback;
+@protocol LeapHierarchyCallback;
 @class NSString;
 @class NSDate;
 
@@ -800,6 +816,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Leap * _Nonn
 + (Leap * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 /// The callback object is a LeapCallback delegate object for clients to conform to their desired class/object and implement the delegate’s method/methods.
 @property (nonatomic, weak) id <LeapCallback> _Nullable callback;
+@property (nonatomic, weak) id <LeapHierarchyCallback> _Nullable hierarchyCallback;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 /// The method can be used to add properties, flush them and start the LeapSDK with an apiKey.
@@ -886,6 +903,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Leap * _Nonn
 - (void)disable;
 /// Clears all the cached info, removes all views, sends pending events and profile properties to backend.
 - (void)logout;
+- (void)receiveDataFromiOS;
 @end
 
 
@@ -898,6 +916,18 @@ SWIFT_PROTOCOL("_TtP7LeapSDK12LeapCallback_")
 /// \param eventInfo A dictionary of events that are generated based on user actions and navigations.
 ///
 - (void)eventNotificationWithEventInfo:(NSDictionary<NSString *, id> * _Nonnull)eventInfo;
+@end
+
+
+/// A callback protocol to let flutter SDK know what needs to sent to iOS.
+SWIFT_PROTOCOL("_TtP7LeapSDK21LeapHierarchyCallback_")
+@protocol LeapHierarchyCallback <NSObject>
+/// Callback method for flutter hierarchy that’s sent from flutter to iOS based on the instruction from iOS.
+/// \param message instruction from iOS to flutter.
+///
+/// \param hierarchy flutter hierarchy sent to iOS from flutter.
+///
+- (void)sendInstructionToFlutterWithMessage:(NSString * _Nonnull)message completion:(void (^ _Nonnull)(NSString * _Nonnull))completion;
 @end
 
 

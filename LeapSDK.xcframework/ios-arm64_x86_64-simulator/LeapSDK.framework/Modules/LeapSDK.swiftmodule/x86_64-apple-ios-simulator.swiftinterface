@@ -19,12 +19,16 @@ import os
 @objc public protocol LeapCallback : ObjectiveC.NSObjectProtocol {
   @objc func eventNotification(eventInfo: Swift.Dictionary<Swift.String, Any>)
 }
+@objc public protocol LeapHierarchyCallback : ObjectiveC.NSObjectProtocol {
+  @objc func sendInstructionToFlutter(message: Swift.String, completion: @escaping (_ hierarchy: Swift.String) -> Swift.Void)
+}
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class Leap : ObjectiveC.NSObject {
   @objc public static let shared: LeapSDK.Leap
   @objc weak public var callback: (any LeapSDK.LeapCallback)? {
     @objc get
     @objc set
   }
+  @objc weak public var hierarchyCallback: (any LeapSDK.LeapHierarchyCallback)?
   @discardableResult
   @objc public func withBuilder(_ apiKey: Swift.String) -> LeapSDK.Leap?
   @discardableResult
@@ -47,6 +51,7 @@ import os
   @objc public func offlineSync(_ projectIds: [Swift.String])
   @objc public func disable()
   @objc public func logout()
+  @objc public func receiveDataFromiOS()
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers public class WfxLogEntry : CoreData.NSManagedObject {
