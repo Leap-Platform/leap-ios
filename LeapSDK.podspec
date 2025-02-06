@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "LeapSDK"
-    s.version      = "2.0.6"
+    s.version      = "2.0.7"
     s.summary      = "Product engagement made easy"
     s.description  = <<-DESC 
     Product engagement made easy. Onboard, nudge, & delight your mobile users
@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
     s.source       = { :git => "https://github.com/Leap-Platform/leap-ios.git", :tag => s.version.to_s }
     s.vendored_frameworks = "LeapSDK.xcframework"
     s.frameworks   = 'UIKit', 'Webkit', 'AVFoundation'
-    s.dependency 'LeapCoreSDK', '2.0.6'
+    s.dependency 'LeapCoreSDK', '2.0.7'
   end
