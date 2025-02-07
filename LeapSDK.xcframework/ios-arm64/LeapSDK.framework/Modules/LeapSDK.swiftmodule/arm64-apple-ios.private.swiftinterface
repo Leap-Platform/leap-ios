@@ -29,6 +29,7 @@ import os
     @objc set
   }
   @objc weak public var hierarchyCallback: (any LeapSDK.LeapHierarchyCallback)?
+  @objc public func setWrapperSdkProperties(_ platform: Swift.String, _ version: Swift.String)
   @discardableResult
   @objc public func withBuilder(_ apiKey: Swift.String) -> LeapSDK.Leap?
   @discardableResult

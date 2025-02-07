@@ -315,6 +315,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Leap * _Nonn
 @property (nonatomic, weak) id <LeapHierarchyCallback> _Nullable hierarchyCallback;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (void)setWrapperSdkProperties:(NSString * _Nonnull)platform :(NSString * _Nonnull)version;
 /// The method can be used to add properties, flush them and start the LeapSDK with an apiKey.
 /// Example:
 /// Leap.shared.withBuilder(apiKey)?.addProperty(“name”, stringValue: “David”)

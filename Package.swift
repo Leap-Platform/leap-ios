@@ -12,8 +12,8 @@ let package = Package(
         .binaryTarget(name: "LeapSDK", path: "LeapSDK.xcframework"),
         .binaryTarget(
             name: "LeapCoreSDK", 
-            url: "https://github.com/Leap-Platform/leap-core-ios/releases/download/2.0.7/LeapCoreSDK.xcframework.zip",
-            checksum: "48d2abdf7ad136bf4a04bf456e1b23bea870e1dcf2610deddb7724e9a50a41d2"
+            url: "https://github.com/Leap-Platform/leap-core-ios/releases/download/2.0.8/LeapCoreSDK.xcframework.zip",
+            checksum: "3d51f55c7944916dfbdcede581f72006916c7cd1616dec87b731bf464fbf1808"
         )
     ]
 )
