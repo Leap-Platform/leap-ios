@@ -400,6 +400,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Leap * _Nonn
 - (void)disable;
 /// Clears all the cached info, removes all views, sends pending events and profile properties to backend.
 - (void)logout;
+- (void)getNativeHierarchy:(NSInteger)viewId completion:(void (^ _Nonnull)(NSString * _Nullable))completion;
 - (void)receiveDataFromiOS;
 @end
 
@@ -905,6 +906,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Leap * _Nonn
 - (void)disable;
 /// Clears all the cached info, removes all views, sends pending events and profile properties to backend.
 - (void)logout;
+- (void)getNativeHierarchy:(NSInteger)viewId completion:(void (^ _Nonnull)(NSString * _Nullable))completion;
 - (void)receiveDataFromiOS;
 @end
 

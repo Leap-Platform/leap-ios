@@ -52,6 +52,7 @@ import os
   @objc public func offlineSync(_ projectIds: [Swift.String])
   @objc public func disable()
   @objc public func logout()
+  @objc public func getNativeHierarchy(_ viewId: Swift.Int, completion: @escaping (_ hierarchyString: Swift.String?) -> Swift.Void)
   @objc public func receiveDataFromiOS()
   @objc deinit
 }
