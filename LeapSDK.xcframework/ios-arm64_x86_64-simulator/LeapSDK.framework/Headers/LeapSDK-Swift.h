@@ -439,6 +439,7 @@ SWIFT_PROTOCOL("_TtP7LeapSDK21LeapHierarchyCallback_")
 
 
 
+
 @class NSEntityDescription;
 @class NSManagedObjectContext;
 
@@ -933,6 +934,7 @@ SWIFT_PROTOCOL("_TtP7LeapSDK21LeapHierarchyCallback_")
 ///
 - (void)sendInstructionToFlutterWithMessage:(NSString * _Nonnull)message completion:(void (^ _Nonnull)(NSString * _Nonnull))completion;
 @end
+
 
 
 

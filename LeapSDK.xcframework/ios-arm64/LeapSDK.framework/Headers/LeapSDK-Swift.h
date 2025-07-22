@@ -439,6 +439,7 @@ SWIFT_PROTOCOL("_TtP7LeapSDK21LeapHierarchyCallback_")
 
 
 
+
 @class NSEntityDescription;
 @class NSManagedObjectContext;
 
