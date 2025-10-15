@@ -303,6 +303,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @protocol LeapHierarchyCallback;
 @class NSString;
 @class NSDate;
+@protocol LeapExceptionCallBack;
 
 SWIFT_CLASS("_TtC7LeapSDK4Leap")
 @interface Leap : NSObject
@@ -399,6 +400,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Leap * _Nonn
 - (void)disable;
 /// Clears all the cached info, removes all views, sends pending events and profile properties to backend.
 - (void)logout;
+- (void)registerExceptionCallback:(id <LeapExceptionCallBack> _Nonnull)exceptionDelegate callbackLevels:(NSArray * _Nullable)callbackLevels;
 - (void)getNativeHierarchy:(NSInteger)viewId completion:(void (^ _Nonnull)(NSString * _Nullable))completion;
 - (void)receiveDataFromiOS;
 @end
@@ -414,6 +416,21 @@ SWIFT_PROTOCOL("_TtP7LeapSDK12LeapCallback_")
 ///
 - (void)eventNotificationWithEventInfo:(NSDictionary<NSString *, id> * _Nonnull)eventInfo;
 @end
+
+enum LeapExceptionCallBackTypes : NSInteger;
+
+SWIFT_PROTOCOL("_TtP7LeapSDK21LeapExceptionCallBack_")
+@protocol LeapExceptionCallBack <NSObject>
+- (void)exceptionCallbackEventWithEventInfo:(NSDictionary<NSString *, id> * _Nonnull)eventInfo exceptionType:(enum LeapExceptionCallBackTypes)exceptionType;
+@end
+
+typedef SWIFT_ENUM(NSInteger, LeapExceptionCallBackTypes, open) {
+  LeapExceptionCallBackTypesMEMORY = 0,
+  LeapExceptionCallBackTypesCRASH = 1,
+  LeapExceptionCallBackTypesAUI = 2,
+  LeapExceptionCallBackTypesJS = 3,
+  LeapExceptionCallBackTypesPUBLIC_METHOD = 4,
+};
 
 
 /// A callback protocol to let flutter SDK know what needs to sent to iOS.
@@ -752,6 +769,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @protocol LeapHierarchyCallback;
 @class NSString;
 @class NSDate;
+@protocol LeapExceptionCallBack;
 
 SWIFT_CLASS("_TtC7LeapSDK4Leap")
 @interface Leap : NSObject
@@ -848,6 +866,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Leap * _Nonn
 - (void)disable;
 /// Clears all the cached info, removes all views, sends pending events and profile properties to backend.
 - (void)logout;
+- (void)registerExceptionCallback:(id <LeapExceptionCallBack> _Nonnull)exceptionDelegate callbackLevels:(NSArray * _Nullable)callbackLevels;
 - (void)getNativeHierarchy:(NSInteger)viewId completion:(void (^ _Nonnull)(NSString * _Nullable))completion;
 - (void)receiveDataFromiOS;
 @end
@@ -863,6 +882,21 @@ SWIFT_PROTOCOL("_TtP7LeapSDK12LeapCallback_")
 ///
 - (void)eventNotificationWithEventInfo:(NSDictionary<NSString *, id> * _Nonnull)eventInfo;
 @end
+
+enum LeapExceptionCallBackTypes : NSInteger;
+
+SWIFT_PROTOCOL("_TtP7LeapSDK21LeapExceptionCallBack_")
+@protocol LeapExceptionCallBack <NSObject>
+- (void)exceptionCallbackEventWithEventInfo:(NSDictionary<NSString *, id> * _Nonnull)eventInfo exceptionType:(enum LeapExceptionCallBackTypes)exceptionType;
+@end
+
+typedef SWIFT_ENUM(NSInteger, LeapExceptionCallBackTypes, open) {
+  LeapExceptionCallBackTypesMEMORY = 0,
+  LeapExceptionCallBackTypesCRASH = 1,
+  LeapExceptionCallBackTypesAUI = 2,
+  LeapExceptionCallBackTypesJS = 3,
+  LeapExceptionCallBackTypesPUBLIC_METHOD = 4,
+};
 
 
 /// A callback protocol to let flutter SDK know what needs to sent to iOS.

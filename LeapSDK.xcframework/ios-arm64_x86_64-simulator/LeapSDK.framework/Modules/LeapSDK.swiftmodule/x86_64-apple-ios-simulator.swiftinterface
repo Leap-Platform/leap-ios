@@ -18,8 +18,23 @@ import os
 @objc public protocol LeapCallback : ObjectiveC.NSObjectProtocol {
   @objc func eventNotification(eventInfo: Swift.Dictionary<Swift.String, Any>)
 }
+@objc public protocol LeapExceptionCallBack : ObjectiveC.NSObjectProtocol {
+  @objc func exceptionCallbackEvent(eventInfo: [Swift.String : Any], exceptionType: LeapSDK.LeapExceptionCallBackTypes)
+}
 @objc public protocol LeapHierarchyCallback : ObjectiveC.NSObjectProtocol {
   @objc func sendInstructionToFlutter(message: Swift.String, completion: @escaping (_ hierarchy: Swift.String) -> Swift.Void)
+}
+@objc public enum LeapExceptionCallBackTypes : Swift.Int {
+  case MEMORY
+  case CRASH
+  case AUI
+  case JS
+  case PUBLIC_METHOD
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class Leap : ObjectiveC.NSObject {
   @objc public static let shared: LeapSDK.Leap
@@ -51,7 +66,12 @@ import os
   @objc public func offlineSync(_ projectIds: [Swift.String])
   @objc public func disable()
   @objc public func logout()
+  @objc public func registerExceptionCallback(_ exceptionDelegate: any LeapSDK.LeapExceptionCallBack, callbackLevels: Foundation.NSArray? = nil)
+  public func registerExceptionCallback(_ exceptionDelegate: any LeapSDK.LeapExceptionCallBack, callbackLevels: [LeapSDK.LeapExceptionCallBackTypes]? = nil)
   @objc public func getNativeHierarchy(_ viewId: Swift.Int, completion: @escaping (_ hierarchyString: Swift.String?) -> Swift.Void)
   @objc public func receiveDataFromiOS()
   @objc deinit
 }
+extension LeapSDK.LeapExceptionCallBackTypes : Swift.Equatable {}
+extension LeapSDK.LeapExceptionCallBackTypes : Swift.Hashable {}
+extension LeapSDK.LeapExceptionCallBackTypes : Swift.RawRepresentable {}
