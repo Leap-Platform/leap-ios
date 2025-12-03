@@ -3643,7 +3643,14 @@
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
       "kind": "BooleanLiteral",
-      "offset": 9947,
+      "offset": 2071,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/Leap.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9995,
       "length": 5,
       "value": "false"
     },
