@@ -3177,14 +3177,14 @@
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapWebAssist.swift",
       "kind": "BooleanLiteral",
-      "offset": 17730,
+      "offset": 17921,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapWebAssist.swift",
       "kind": "IntegerLiteral",
-      "offset": 18888,
+      "offset": 19079,
       "length": 1,
       "value": "0"
     },
@@ -3198,7 +3198,7 @@
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapAUI\/LeapAUIComponents\/LeapWebAssist\/LeapWebAssist.swift",
       "kind": "Dictionary",
-      "offset": 33482,
+      "offset": 33673,
       "length": 3,
       "value": "[]"
     },
