@@ -75,6 +75,23 @@ import os
   @objc public func receiveDataFromiOS()
   @objc deinit
 }
+@_hasMissingDesignatedInitializers final public class LeapAssetDownloadStatusManager {
+  public static let shared: LeapSDK.LeapAssetDownloadStatusManager
+  public static let notificationName: Swift.String
+  public static let successCode: Swift.Int
+  public static let networkErrorCode: Swift.Int
+  public static let fileWriteErrorCode: Swift.Int
+  final public func registerAssets(urls: [Swift.String])
+  final public func startBulkDownload(source: Swift.String, urls: [Swift.String], priority: Swift.String)
+  final public func markDownloading(url: Swift.String, filePath: Swift.String)
+  final public func markDownloading(url: Swift.String, filePath: Swift.String, attempt: Swift.Int)
+  final public func markDownloaded(url: Swift.String, filePath: Swift.String)
+  final public func markDownloaded(url: Swift.String, filePath: Swift.String, attempt: Swift.Int)
+  final public func markFailed(url: Swift.String, filePath: Swift.String, errorCode: Swift.Int)
+  final public func markFailed(url: Swift.String, filePath: Swift.String, errorCode: Swift.Int, attempt: Swift.Int)
+  final public func clear()
+  @objc deinit
+}
 extension LeapSDK.LeapExceptionCallBackTypes : Swift.Equatable {}
 extension LeapSDK.LeapExceptionCallBackTypes : Swift.Hashable {}
 extension LeapSDK.LeapExceptionCallBackTypes : Swift.RawRepresentable {}
