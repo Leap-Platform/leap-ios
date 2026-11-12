@@ -2,18 +2,23 @@
 
 import PackageDescription
 
+// LeapSDK links LeapCoreSDK, so the product ships both; LeapCoreSDK comes from leap-core-ios's
+// release of the same version.
 let package = Package(
     name: "LeapSDK",
     products: [
-        .library( name: "LeapSDK", targets: ["LeapSDK","LeapCoreSDK"] )
+        .library(name: "LeapSDK", targets: ["LeapSDK", "LeapCoreSDK"])
     ],
-    dependencies: [],
     targets: [
-        .binaryTarget(name: "LeapSDK", path: "LeapSDK.xcframework"),
         .binaryTarget(
-            name: "LeapCoreSDK", 
-            url: "https://github.com/Leap-Platform/leap-core-ios/releases/download/2.2.11/LeapCoreSDK.xcframework.zip",
-            checksum: "f67c7b6b5a2b8000be871bef6f3145590eb0aeeea9c074d1c31e626271e89ed3"
+            name: "LeapSDK",
+            url: "https://github.com/Leap-Platform/leap-ios/releases/download/2.3.0/LeapSDK.xcframework.zip",
+            checksum: "6949f88c70a57c0b27ba72b108127038ba83c2fb4c1d9cefe58f20ea4d521cd8"
+        ),
+        .binaryTarget(
+            name: "LeapCoreSDK",
+            url: "https://github.com/Leap-Platform/leap-core-ios/releases/download/2.3.0/LeapCoreSDK.xcframework.zip",
+            checksum: "64b5336ef5f7736600af9b759a1ca9e0ba0792e1f0f1be0424937261440bf552"
         )
     ]
 )
